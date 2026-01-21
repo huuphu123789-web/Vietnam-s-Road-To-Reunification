@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 49eadec3e060044a3a2545cd1fe5a22f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8150098888194201042
+    second: bombSFX16_0
+  - first:
+      213: -4416963340844027445
+    second: bombSFX16_1
+  - first:
+      213: 4275233963912917984
+    second: bombSFX16_2
+  - first:
+      213: -2275607457058862682
+    second: bombSFX16_3
+  - first:
+      213: 2977807253894022428
+    second: bombSFX16_4
+  - first:
+      213: 4599997902360266664
+    second: bombSFX16_5
+  - first:
+      213: 5527314161661924096
+    second: bombSFX16_6
+  - first:
+      213: 5950526125964813992
+    second: bombSFX16_7
+  - first:
+      213: 6079635488926651211
+    second: bombSFX16_8
+  - first:
+      213: 4221241371034161706
+    second: bombSFX16_9
+  - first:
+      213: -2320343956075530899
+    second: bombSFX16_10
+  - first:
+      213: -3407436299799040668
+    second: bombSFX16_11
+  - first:
+      213: -2429756251784336274
+    second: bombSFX16_12
+  - first:
+      213: -6947821278106409564
+    second: bombSFX16_13
+  - first:
+      213: 4301906405274758180
+    second: bombSFX16_14
+  - first:
+      213: -1286752654956855444
+    second: bombSFX16_15
+  - first:
+      213: 6590950713968443376
+    second: bombSFX16_16
+  - first:
+      213: -5992747615436110895
+    second: bombSFX16_17
+  - first:
+      213: 5000236231055037312
+    second: bombSFX16_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bombSFX16_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 356
+        width: 329
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae0e40e3805ee80800000000000000
+      internalID: -8150098888194201042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 342
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1b11b5e3bc3b2c0800000000000000
+      internalID: -4416963340844027445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 349
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f6b693aea45b30800000000000000
+      internalID: 4275233963912917984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 308
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9c6c1131b6b60e0800000000000000
+      internalID: -2275607457058862682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 329
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c154fe99beb435920800000000000000
+      internalID: 2977807253894022428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 335
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c9b968b976df30800000000000000
+      internalID: 4599997902360266664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00358dfe1f6f4bc40800000000000000
+      internalID: 5527314161661924096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a660dcfbf3849250800000000000000
+      internalID: 5950526125964813992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 295
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d45114443f5450800000000000000
+      internalID: 6079635488926651211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 288
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a229caf69acd49a30800000000000000
+      internalID: 4221241371034161706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 295
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b465377b7ccfd0800000000000000
+      internalID: -2320343956075530899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 281
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de4bb1dba56b0d0800000000000000
+      internalID: -3407436299799040668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 275
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c2c99ff85c74ed0800000000000000
+      internalID: -2429756251784336274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 261
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a52193db51649f90800000000000000
+      internalID: -6947821278106409564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 254
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c2167451173bb30800000000000000
+      internalID: 4301906405274758180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 254
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f718f1749842ee0800000000000000
+      internalID: -1286752654956855444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 247
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff323601c2c77b50800000000000000
+      internalID: 6590950713968443376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 235
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38c517bcb75dca0800000000000000
+      internalID: -5992747615436110895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombSFX16_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 214
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d2191c58646540800000000000000
+      internalID: 5000236231055037312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bombSFX16_0: -8150098888194201042
+      bombSFX16_1: -4416963340844027445
+      bombSFX16_10: -2320343956075530899
+      bombSFX16_11: -3407436299799040668
+      bombSFX16_12: -2429756251784336274
+      bombSFX16_13: -6947821278106409564
+      bombSFX16_14: 4301906405274758180
+      bombSFX16_15: -1286752654956855444
+      bombSFX16_16: 6590950713968443376
+      bombSFX16_17: -5992747615436110895
+      bombSFX16_18: 5000236231055037312
+      bombSFX16_2: 4275233963912917984
+      bombSFX16_3: -2275607457058862682
+      bombSFX16_4: 2977807253894022428
+      bombSFX16_5: 4599997902360266664
+      bombSFX16_6: 5527314161661924096
+      bombSFX16_7: 5950526125964813992
+      bombSFX16_8: 6079635488926651211
+      bombSFX16_9: 4221241371034161706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
