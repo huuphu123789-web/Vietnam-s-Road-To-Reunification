@@ -1,18 +1,11 @@
 code CONTRIBUTING.md
-# Quy tắc đóng góp cho dự án
+Quy tắc đóng góp
+1. Quy trình đóng góp
+Mỗi thành viên làm việc trên branch riêng thay vì trực tiếp trên main.
 
-Cảm ơn bạn đã quan tâm và muốn đóng góp cho dự án **Vietnam's Road To Reunification**.  
-Để làm việc nhóm hiệu quả, vui lòng tuân theo các quy tắc sau:
+Khi hoàn thành, mở Pull Request (PR) để merge vào main.
 
----
-
-## 1. Quy trình làm việc
-- Mỗi thành viên làm việc trên **branch riêng**:
-  ```bash
-  git checkout -b feature-tenchucnang
-Khi hoàn thành, mở Pull Request để merge vào main.
-
-Pull Request phải được review bởi ít nhất 1 thành viên khác.
+PR cần được review bởi ít nhất một thành viên khác trước khi merge.
 
 2. Quy tắc đặt tên branch
 feature/... cho tính năng mới
@@ -24,7 +17,7 @@ docs/... cho tài liệu
 Ví dụ: feature-login, fix-bug-level1, docs-readme
 
 3. Quy tắc commit message
-Viết ngắn gọn, rõ ràng, bằng tiếng Anh hoặc tiếng Việt.
+Commit message phải ngắn gọn, rõ ràng, mô tả đúng thay đổi.
 
 Cấu trúc: <loại>: <mô tả>
 
@@ -37,16 +30,16 @@ fix: sửa lỗi hiển thị nhân vật
 docs: cập nhật README
 
 4. Coding style
-Tuân thủ chuẩn code của ngôn ngữ bạn dùng (C#, JavaScript, Python, v.v.).
+Tuân thủ chuẩn code của ngôn ngữ sử dụng (C#, JavaScript, Python, v.v.).
 
-Giữ code sạch, dễ đọc, có comment khi cần.
+Code phải sạch, dễ đọc, có comment khi cần.
 
 Tránh viết code lặp lại hoặc khó bảo trì.
 
 5. Kiểm thử và CI/CD
-Trước khi mở Pull Request, chạy test để đảm bảo không lỗi.
+Trước khi mở PR, chạy test để đảm bảo không lỗi.
 
-GitHub Actions sẽ tự động kiểm tra khi có Pull Request.
+GitHub Actions sẽ tự động kiểm tra khi có PR.
 
 Nếu có lỗi, sửa trước khi merge.
 
@@ -70,9 +63,3 @@ Tránh push trực tiếp vào main nếu chưa review.
 Cập nhật README.md nếu có thay đổi lớn trong cấu trúc hoặc cách dùng.
 
 Nếu thêm thư viện hoặc plugin, ghi rõ trong phần hướng dẫn cài đặt.
-
-Mã
-
----
-
-### 3. Lưu và push lại lên GitHub
