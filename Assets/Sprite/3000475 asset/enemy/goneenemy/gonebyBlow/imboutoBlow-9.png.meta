@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: ada5daa9e59114ee3b3733af95ccc3a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6942955557929762984
+    second: imboutoBlow-9_0
+  - first:
+      213: 3920887729212631937
+    second: imboutoBlow-9_1
+  - first:
+      213: -6123815459927484776
+    second: imboutoBlow-9_2
+  - first:
+      213: -3902410530976355869
+    second: imboutoBlow-9_3
+  - first:
+      213: -5569048711591554114
+    second: imboutoBlow-9_4
+  - first:
+      213: 4154366957834966093
+    second: imboutoBlow-9_5
+  - first:
+      213: 5121781590161492888
+    second: imboutoBlow-9_6
+  - first:
+      213: -4429494590695073792
+    second: imboutoBlow-9_7
+  - first:
+      213: -8724193897089997697
+    second: imboutoBlow-9_8
+  - first:
+      213: 7774965824567480337
+    second: imboutoBlow-9_9
+  - first:
+      213: 1495025204213134246
+    second: imboutoBlow-9_10
+  - first:
+      213: -6001560962539638638
+    second: imboutoBlow-9_11
+  - first:
+      213: -4361098233270355299
+    second: imboutoBlow-9_12
+  - first:
+      213: -4219814193311210433
+    second: imboutoBlow-9_13
+  - first:
+      213: -3546578549668500298
+    second: imboutoBlow-9_14
+  - first:
+      213: -7242115260027935901
+    second: imboutoBlow-9_15
+  - first:
+      213: 6539220728284755090
+    second: imboutoBlow-9_16
+  - first:
+      213: 2732692420561547609
+    second: imboutoBlow-9_17
+  - first:
+      213: -1419744447262595648
+    second: imboutoBlow-9_18
+  - first:
+      213: -4031734444943735139
+    second: imboutoBlow-9_19
+  - first:
+      213: 8504363585692859782
+    second: imboutoBlow-9_20
+  - first:
+      213: -3110804007386269798
+    second: imboutoBlow-9_21
+  - first:
+      213: 4624827074844742893
+    second: imboutoBlow-9_22
+  - first:
+      213: -2936660268782323006
+    second: imboutoBlow-9_23
+  - first:
+      213: 9045414825777097524
+    second: imboutoBlow-9_24
+  - first:
+      213: 7696035202613670214
+    second: imboutoBlow-9_25
+  - first:
+      213: 451455975569661556
+    second: imboutoBlow-9_26
+  - first:
+      213: -608415314883650195
+    second: imboutoBlow-9_27
+  - first:
+      213: -7533470382048068233
+    second: imboutoBlow-9_28
+  - first:
+      213: 4779950426318878757
+    second: imboutoBlow-9_29
+  - first:
+      213: 6529303866204503092
+    second: imboutoBlow-9_30
+  - first:
+      213: 5986371706582051210
+    second: imboutoBlow-9_31
+  - first:
+      213: -5834557963674777043
+    second: imboutoBlow-9_32
+  - first:
+      213: -8076381215771916697
+    second: imboutoBlow-9_33
+  - first:
+      213: -8753993464779921469
+    second: imboutoBlow-9_34
+  - first:
+      213: 4789213856695843406
+    second: imboutoBlow-9_35
+  - first:
+      213: 992399117811808811
+    second: imboutoBlow-9_36
+  - first:
+      213: -4097124932576578710
+    second: imboutoBlow-9_37
+  - first:
+      213: -4928414754334627241
+    second: imboutoBlow-9_38
+  - first:
+      213: -5396960820215889184
+    second: imboutoBlow-9_39
+  - first:
+      213: 3780130460869333241
+    second: imboutoBlow-9_40
+  - first:
+      213: -2235024365190171772
+    second: imboutoBlow-9_41
+  - first:
+      213: -5140958485112141486
+    second: imboutoBlow-9_42
+  - first:
+      213: -8178206884398234523
+    second: imboutoBlow-9_43
+  - first:
+      213: 4288546724848029047
+    second: imboutoBlow-9_44
+  - first:
+      213: -5522196106889739058
+    second: imboutoBlow-9_45
+  - first:
+      213: 5744494009322086073
+    second: imboutoBlow-9_46
+  - first:
+      213: 310097911511086078
+    second: imboutoBlow-9_47
+  - first:
+      213: 4137933989733694831
+    second: imboutoBlow-9_48
+  - first:
+      213: 4925099480456424240
+    second: imboutoBlow-9_49
+  - first:
+      213: 7770664846482265992
+    second: imboutoBlow-9_50
+  - first:
+      213: 5419759731610403925
+    second: imboutoBlow-9_51
+  - first:
+      213: 1294580032754188411
+    second: imboutoBlow-9_52
+  - first:
+      213: 6794414745314159152
+    second: imboutoBlow-9_53
+  - first:
+      213: -2968792386238340992
+    second: imboutoBlow-9_54
+  - first:
+      213: 5668063960305392830
+    second: imboutoBlow-9_55
+  - first:
+      213: -6852711756018657247
+    second: imboutoBlow-9_56
+  - first:
+      213: 5763767401105719423
+    second: imboutoBlow-9_57
+  - first:
+      213: -3665460186645684343
+    second: imboutoBlow-9_58
+  - first:
+      213: -8601459665842749756
+    second: imboutoBlow-9_59
+  - first:
+      213: 105011331217375906
+    second: imboutoBlow-9_60
+  - first:
+      213: -4297128680452411297
+    second: imboutoBlow-9_61
+  - first:
+      213: 8564917163002529159
+    second: imboutoBlow-9_62
+  - first:
+      213: 6182188173697058098
+    second: imboutoBlow-9_63
+  - first:
+      213: 4795033266644851648
+    second: imboutoBlow-9_64
+  - first:
+      213: -5627366077378926299
+    second: imboutoBlow-9_65
+  - first:
+      213: -7536703735654141672
+    second: imboutoBlow-9_66
+  - first:
+      213: -8865241590876096061
+    second: imboutoBlow-9_67
+  - first:
+      213: -7875041795810472188
+    second: imboutoBlow-9_68
+  - first:
+      213: -544334808534138145
+    second: imboutoBlow-9_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imboutoBlow-9_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a04ab96b455a5060800000000000000
+      internalID: 6942955557929762984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 354
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b28efad9ac96630800000000000000
+      internalID: 3920887729212631937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 347
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961af8d846d30ba0800000000000000
+      internalID: -6123815459927484776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 340
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e929654c4ad7d9c0800000000000000
+      internalID: -3902410530976355869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 341
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb31db0f3b3c6b2b0800000000000000
+      internalID: -5569048711591554114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 341
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d449f54ccb647a930800000000000000
+      internalID: 4154366957834966093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 333
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b06ba4839341740800000000000000
+      internalID: 5121781590161492888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 341
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0081b1363264782c0800000000000000
+      internalID: -4429494590695073792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 341
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74e1549fdf6de680800000000000000
+      internalID: -8724193897089997697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 318
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1109522593a36eb60800000000000000
+      internalID: 7774965824567480337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 318
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3316390856fb410800000000000000
+      internalID: 1495025204213134246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 326
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29039f92a1c26bca0800000000000000
+      internalID: -6001560962539638638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 326
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a365f43444a73c0800000000000000
+      internalID: -4361098233270355299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 318
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a88549553075c0800000000000000
+      internalID: -4219814193311210433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 326
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc2df2899508cec0800000000000000
+      internalID: -3546578549668500298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 326
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36369979a86de7b90800000000000000
+      internalID: -7242115260027935901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 318
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294b8492b9affba50800000000000000
+      internalID: 6539220728284755090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 311
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95139ff27497ce520800000000000000
+      internalID: 2732692420561547609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 311
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5641582fd0c4ce0800000000000000
+      internalID: -1419744447262595648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 289
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960c6422e66c08c0800000000000000
+      internalID: -4031734444943735139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7df58f91950670800000000000000
+      internalID: 8504363585692859782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9731edac3434d4d0800000000000000
+      internalID: -3110804007386269798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4dabf98bfae2040800000000000000
+      internalID: 4624827074844742893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 289
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caf93d6b03ee37d0800000000000000
+      internalID: -2936660268782323006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 288
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bee700cd4c78d70800000000000000
+      internalID: 9045414825777097524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 297
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64170becd3fcdca60800000000000000
+      internalID: 7696035202613670214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 282
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9e8f51d4e34600800000000000000
+      internalID: 451455975569661556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 274
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dd370ae797e87f0800000000000000
+      internalID: -608415314883650195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 282
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d39100a9cb37790800000000000000
+      internalID: -7533470382048068233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 282
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528b6b4669bc55240800000000000000
+      internalID: 4779950426318878757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 144
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c34b7c54fbc9a50800000000000000
+      internalID: 6529303866204503092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 282
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a548995dd31350800000000000000
+      internalID: 5986371706582051210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_32
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0db1e17c770fa0800000000000000
+      internalID: -5834557963674777043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7660743231eeaef80800000000000000
+      internalID: -8076381215771916697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7a3bd0351938680800000000000000
+      internalID: -8753993464779921469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 261
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4afbb9d0a4b67240800000000000000
+      internalID: 4789213856695843406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 261
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a759c5db5b5cd00800000000000000
+      internalID: 992399117811808811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_37
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 253
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a637061d4961427c0800000000000000
+      internalID: -4097124932576578710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 260
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a271e84e0ca9bb0800000000000000
+      internalID: -4928414754334627241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 261
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2c4547ab42a15b0800000000000000
+      internalID: -5396960820215889184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 261
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f010cc40a8b57430800000000000000
+      internalID: 3780130460869333241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_41
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 246
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4833f787e299bf0e0800000000000000
+      internalID: -2235024365190171772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 245
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2594cd9ee75a7a8b0800000000000000
+      internalID: -5140958485112141486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 246
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5640acb2b2c218e80800000000000000
+      internalID: -8178206884398234523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_44
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 246
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d4b39468af38b30800000000000000
+      internalID: 4288546724848029047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4cacc06e73d53b0800000000000000
+      internalID: -5522196106889739058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be9008adda88bf40800000000000000
+      internalID: 5744494009322086073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef375355860bd4400800000000000000
+      internalID: 310097911511086078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_48
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d771a3a05ec6930800000000000000
+      internalID: 4137933989733694831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 232
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be01812e7795440800000000000000
+      internalID: 4925099480456424240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 209
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887d033d182f6db60800000000000000
+      internalID: 7770664846482265992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ca92c2cad63b40800000000000000
+      internalID: 5419759731610403925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 202
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7080a94ea547f110800000000000000
+      internalID: 1294580032754188411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6027663c9a4e50800000000000000
+      internalID: 6794414745314159152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 181
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0802166dd0bbcc6d0800000000000000
+      internalID: -2968792386238340992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_55
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5236242209ae40800000000000000
+      internalID: 5668063960305392830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1285d5217f646e0a0800000000000000
+      internalID: -6852711756018657247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_57
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 166
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7002eed9e30dff40800000000000000
+      internalID: 5763767401105719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f95a4716ba12dc0800000000000000
+      internalID: -3665460186645684343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceb793a10a71a880800000000000000
+      internalID: -8601459665842749756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 144
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a24a96df33157100800000000000000
+      internalID: 105011331217375906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 137
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50bd777b388d54c0800000000000000
+      internalID: -4297128680452411297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_62
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 116
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7858967e7c2bcd670800000000000000
+      internalID: 8564917163002529159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 123
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23585dba36b8bc550800000000000000
+      internalID: 6182188173697058098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 123
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb1c80d9516b8240800000000000000
+      internalID: 4795033266644851648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529eeb02e5497e1b0800000000000000
+      internalID: -5627366077378926299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811b9f232ef386790800000000000000
+      internalID: -7536703735654141672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9bfcf3eb558f480800000000000000
+      internalID: -8865241590876096061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_68
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fcc51e53b36b290800000000000000
+      internalID: -7875041795810472188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imboutoBlow-9_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 28
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2417a20622278f0800000000000000
+      internalID: -544334808534138145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      imboutoBlow-9_0: 6942955557929762984
+      imboutoBlow-9_1: 3920887729212631937
+      imboutoBlow-9_10: 1495025204213134246
+      imboutoBlow-9_11: -6001560962539638638
+      imboutoBlow-9_12: -4361098233270355299
+      imboutoBlow-9_13: -4219814193311210433
+      imboutoBlow-9_14: -3546578549668500298
+      imboutoBlow-9_15: -7242115260027935901
+      imboutoBlow-9_16: 6539220728284755090
+      imboutoBlow-9_17: 2732692420561547609
+      imboutoBlow-9_18: -1419744447262595648
+      imboutoBlow-9_19: -4031734444943735139
+      imboutoBlow-9_2: -6123815459927484776
+      imboutoBlow-9_20: 8504363585692859782
+      imboutoBlow-9_21: -3110804007386269798
+      imboutoBlow-9_22: 4624827074844742893
+      imboutoBlow-9_23: -2936660268782323006
+      imboutoBlow-9_24: 9045414825777097524
+      imboutoBlow-9_25: 7696035202613670214
+      imboutoBlow-9_26: 451455975569661556
+      imboutoBlow-9_27: -608415314883650195
+      imboutoBlow-9_28: -7533470382048068233
+      imboutoBlow-9_29: 4779950426318878757
+      imboutoBlow-9_3: -3902410530976355869
+      imboutoBlow-9_30: 6529303866204503092
+      imboutoBlow-9_31: 5986371706582051210
+      imboutoBlow-9_32: -5834557963674777043
+      imboutoBlow-9_33: -8076381215771916697
+      imboutoBlow-9_34: -8753993464779921469
+      imboutoBlow-9_35: 4789213856695843406
+      imboutoBlow-9_36: 992399117811808811
+      imboutoBlow-9_37: -4097124932576578710
+      imboutoBlow-9_38: -4928414754334627241
+      imboutoBlow-9_39: -5396960820215889184
+      imboutoBlow-9_4: -5569048711591554114
+      imboutoBlow-9_40: 3780130460869333241
+      imboutoBlow-9_41: -2235024365190171772
+      imboutoBlow-9_42: -5140958485112141486
+      imboutoBlow-9_43: -8178206884398234523
+      imboutoBlow-9_44: 4288546724848029047
+      imboutoBlow-9_45: -5522196106889739058
+      imboutoBlow-9_46: 5744494009322086073
+      imboutoBlow-9_47: 310097911511086078
+      imboutoBlow-9_48: 4137933989733694831
+      imboutoBlow-9_49: 4925099480456424240
+      imboutoBlow-9_5: 4154366957834966093
+      imboutoBlow-9_50: 7770664846482265992
+      imboutoBlow-9_51: 5419759731610403925
+      imboutoBlow-9_52: 1294580032754188411
+      imboutoBlow-9_53: 6794414745314159152
+      imboutoBlow-9_54: -2968792386238340992
+      imboutoBlow-9_55: 5668063960305392830
+      imboutoBlow-9_56: -6852711756018657247
+      imboutoBlow-9_57: 5763767401105719423
+      imboutoBlow-9_58: -3665460186645684343
+      imboutoBlow-9_59: -8601459665842749756
+      imboutoBlow-9_6: 5121781590161492888
+      imboutoBlow-9_60: 105011331217375906
+      imboutoBlow-9_61: -4297128680452411297
+      imboutoBlow-9_62: 8564917163002529159
+      imboutoBlow-9_63: 6182188173697058098
+      imboutoBlow-9_64: 4795033266644851648
+      imboutoBlow-9_65: -5627366077378926299
+      imboutoBlow-9_66: -7536703735654141672
+      imboutoBlow-9_67: -8865241590876096061
+      imboutoBlow-9_68: -7875041795810472188
+      imboutoBlow-9_69: -544334808534138145
+      imboutoBlow-9_7: -4429494590695073792
+      imboutoBlow-9_8: -8724193897089997697
+      imboutoBlow-9_9: 7774965824567480337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

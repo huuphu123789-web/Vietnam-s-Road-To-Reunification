@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Bullet
+  - Grenade
+  - Boss
+  - BossBullet
+  - Enemy
+  - EnemyBullet
+  - BossTrigger
+  - BossBoom
+  - EnemyKnife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Boss
+  - Player
+  - PlayeKnife
+  - Enemy
+  - EnemyKnife
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1447317217
+    locked: 0
+  - name: Map
+    uniqueID: 1916151767
+    locked: 0
+  - name: BackWard
+    uniqueID: 3749277551
+    locked: 0
+  - name: Bullet,Leg
+    uniqueID: 4060939873
+    locked: 0
+  - name: Player
+    uniqueID: 895747605
+    locked: 0
+  - name: Forward
+    uniqueID: 2696913753
+    locked: 0
+  - name: FFoward
+    uniqueID: 3742270151
+    locked: 0
+  m_RenderingLayers:
+  - Default
