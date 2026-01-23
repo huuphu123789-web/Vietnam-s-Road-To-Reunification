@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c440a2a1d86a94f42ba3068015c31d41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1203096549936640620
+    second: HelicopterDeath_0
+  - first:
+      213: -3771396054695399925
+    second: HelicopterDeath_1
+  - first:
+      213: 4021427634161693228
+    second: HelicopterDeath_2
+  - first:
+      213: 4784317638128526653
+    second: HelicopterDeath_3
+  - first:
+      213: 3553880344757118148
+    second: HelicopterDeath_4
+  - first:
+      213: -2522906099315190441
+    second: HelicopterDeath_5
+  - first:
+      213: 453502730571336344
+    second: HelicopterDeath_6
+  - first:
+      213: 1126256480797929193
+    second: HelicopterDeath_7
+  - first:
+      213: 8801882210728554763
+    second: HelicopterDeath_8
+  - first:
+      213: -1954035191067265093
+    second: HelicopterDeath_9
+  - first:
+      213: 4177289556818974099
+    second: HelicopterDeath_10
+  - first:
+      213: 5819986088143260668
+    second: HelicopterDeath_11
+  - first:
+      213: 1883397429945050372
+    second: HelicopterDeath_12
+  - first:
+      213: -3704558519997512552
+    second: HelicopterDeath_13
+  - first:
+      213: -3256089354646591612
+    second: HelicopterDeath_14
+  - first:
+      213: -8426195828468648401
+    second: HelicopterDeath_15
+  - first:
+      213: -7207483478599752868
+    second: HelicopterDeath_16
+  - first:
+      213: -439250797212289362
+    second: HelicopterDeath_17
+  - first:
+      213: -7302289951221682540
+    second: HelicopterDeath_18
+  - first:
+      213: 2321014117256849379
+    second: HelicopterDeath_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HelicopterDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b87910f142b010800000000000000
+      internalID: 1203096549936640620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e229c154f49abc0800000000000000
+      internalID: -3771396054695399925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22b528702bfec730800000000000000
+      internalID: 4021427634161693228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3569412b8f456240800000000000000
+      internalID: 4784317638128526653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ad73285be15130800000000000000
+      internalID: 3553880344757118148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d6a40546dcfcd0800000000000000
+      internalID: -2522906099315190441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89acf58a45a2b4600800000000000000
+      internalID: 453502730571336344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee21f75d4441af00800000000000000
+      internalID: 1126256480797929193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013e4d7c31962a70800000000000000
+      internalID: 8801882210728554763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b2ddb85fd1e4e0800000000000000
+      internalID: -1954035191067265093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395d42e38b6b8f930800000000000000
+      internalID: 4177289556818974099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb8e75f28eb4c050800000000000000
+      internalID: 5819986088143260668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40522cedbfb232a10800000000000000
+      internalID: 1883397429945050372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c6e557a3c69cc0800000000000000
+      internalID: -3704558519997512552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487eb53cbfb00d2d0800000000000000
+      internalID: -3256089354646591612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f267f34b983201b80800000000000000
+      internalID: -8426195828468648401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a09d86ffd9fb90800000000000000
+      internalID: -7207483478599752868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6bad82ab777e9f0800000000000000
+      internalID: -439250797212289362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ee6828afd09aa90800000000000000
+      internalID: -7302289951221682540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HelicopterDeath_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e2c9da06e53020800000000000000
+      internalID: 2321014117256849379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HelicopterDeath_0: 1203096549936640620
+      HelicopterDeath_1: -3771396054695399925
+      HelicopterDeath_10: 4177289556818974099
+      HelicopterDeath_11: 5819986088143260668
+      HelicopterDeath_12: 1883397429945050372
+      HelicopterDeath_13: -3704558519997512552
+      HelicopterDeath_14: -3256089354646591612
+      HelicopterDeath_15: -8426195828468648401
+      HelicopterDeath_16: -7207483478599752868
+      HelicopterDeath_17: -439250797212289362
+      HelicopterDeath_18: -7302289951221682540
+      HelicopterDeath_19: 2321014117256849379
+      HelicopterDeath_2: 4021427634161693228
+      HelicopterDeath_3: 4784317638128526653
+      HelicopterDeath_4: 3553880344757118148
+      HelicopterDeath_5: -2522906099315190441
+      HelicopterDeath_6: 453502730571336344
+      HelicopterDeath_7: 1126256480797929193
+      HelicopterDeath_8: 8801882210728554763
+      HelicopterDeath_9: -1954035191067265093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
