@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: b33eaaa616d6c4aec8819efe9dfa8f24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -186549909495370055
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_0
+  - first:
+      213: 4754853938416989708
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_1
+  - first:
+      213: 1086856801904537892
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_2
+  - first:
+      213: -7805483558706729260
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_3
+  - first:
+      213: 41082710555313504
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_4
+  - first:
+      213: 2319084239025057099
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_5
+  - first:
+      213: 1191843737688794894
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_6
+  - first:
+      213: 8166468013218210065
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_7
+  - first:
+      213: -8656333590104412341
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_8
+  - first:
+      213: -6478919142526138755
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_9
+  - first:
+      213: -621293433630823540
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_10
+  - first:
+      213: 1836118898470322095
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_11
+  - first:
+      213: 35572670697129019
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_12
+  - first:
+      213: -8566694876524967768
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_13
+  - first:
+      213: 8831019540542760790
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_14
+  - first:
+      213: 20031855912305712
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_15
+  - first:
+      213: -3335037089934744116
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_16
+  - first:
+      213: -2794539634047853460
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_17
+  - first:
+      213: 9170486102267159159
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_18
+  - first:
+      213: -2243282605806941195
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_19
+  - first:
+      213: -3445251075748116630
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_20
+  - first:
+      213: -7564826788372983353
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_21
+  - first:
+      213: 6882256210724381147
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_22
+  - first:
+      213: 2132006124941016578
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_23
+  - first:
+      213: 236872604550657953
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_24
+  - first:
+      213: 8216602052212679370
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_25
+  - first:
+      213: -6011009256183648164
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_26
+  - first:
+      213: -1692868665470468358
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_27
+  - first:
+      213: -642731083493548106
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_28
+  - first:
+      213: -145918690543154856
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_29
+  - first:
+      213: 4289240538643551538
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_30
+  - first:
+      213: 3699774750081517938
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_31
+  - first:
+      213: 8653964890361071257
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_32
+  - first:
+      213: 484840772986301322
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_33
+  - first:
+      213: -5121057534631841082
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_34
+  - first:
+      213: 74690847229561496
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_35
+  - first:
+      213: -2692107969499993547
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_36
+  - first:
+      213: 743722881380485556
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_37
+  - first:
+      213: -6286787749401413183
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_38
+  - first:
+      213: 649855618789840778
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_39
+  - first:
+      213: 2387787842413683610
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_40
+  - first:
+      213: 7409799566587823025
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_41
+  - first:
+      213: -8357141581590639149
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_42
+  - first:
+      213: 4461669827162422445
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_43
+  - first:
+      213: -2975200274793099992
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_44
+  - first:
+      213: -4948671220160330950
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_45
+  - first:
+      213: -2376556827875518365
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_46
+  - first:
+      213: 1788483664844676986
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_47
+  - first:
+      213: 2218155657052490411
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_48
+  - first:
+      213: 3014087875836197210
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_49
+  - first:
+      213: 8349160108896038414
+    second: Mobile - Metal Slug Attack - Stages - Stage 19-1_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 410
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bea5af78dd396df0800000000000000
+      internalID: -186549909495370055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 410
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c063636f672acf140800000000000000
+      internalID: 4754853938416989708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 410
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421bc3fb08a451f00800000000000000
+      internalID: 1086856801904537892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 410
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de222ffe0a5da390800000000000000
+      internalID: -7805483558706729260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 406
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0654f01f184f19000800000000000000
+      internalID: 41082710555313504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 410
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dab4f04da0f2020800000000000000
+      internalID: 2319084239025057099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 410
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07e6b490974a8010800000000000000
+      internalID: 1191843737688794894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 410
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1112675e36f155170800000000000000
+      internalID: 8166468013218210065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 410
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f6b8886768ed780800000000000000
+      internalID: -8656333590104412341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 410
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76404ddd514616a0800000000000000
+      internalID: -6478919142526138755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 407
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be623f9e8b067f0800000000000000
+      internalID: -621293433630823540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 410
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf74b4f8643b7910800000000000000
+      internalID: 1836118898470322095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 410
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b344d90d7216e7000800000000000000
+      internalID: 35572670697129019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 410
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a80299e56cfc1980800000000000000
+      internalID: -8566694876524967768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 410
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657a59ebb751e8a70800000000000000
+      internalID: 8831019540542760790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 189
+        width: 1026
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03448d7edda274000800000000000000
+      internalID: 20031855912305712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5efadbf6197b1d0800000000000000
+      internalID: -3335037089934744116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 165
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cd3d9420dc739d0800000000000000
+      internalID: -2794539634047853460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 165
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7726a4fc58c144f70800000000000000
+      internalID: 9170486102267159159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 165
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb801efa524ed0e0800000000000000
+      internalID: -2243282605806941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 165
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67400c76620030d0800000000000000
+      internalID: -3445251075748116630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c15babbd16540790800000000000000
+      internalID: -7564826788372983353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 1026
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1e3755f8fa28f50800000000000000
+      internalID: 6882256210724381147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef0185648669d10800000000000000
+      internalID: 2132006124941016578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 83
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7734bf06a894300800000000000000
+      internalID: 236872604550657953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e1e6780c370270800000000000000
+      internalID: 8216602052212679370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50b69fddea949ca0800000000000000
+      internalID: -6011009256183648164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe3e3ffae8b188e0800000000000000
+      internalID: -1692868665470468358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfd3422c7f8417f0800000000000000
+      internalID: -642731083493548106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859c51c59b799fdf0800000000000000
+      internalID: -145918690543154856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235dd066b81768b30800000000000000
+      internalID: 4289240538643551538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 34
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279819f688d385330800000000000000
+      internalID: 3699774750081517938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 34
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968ca4973f091870800000000000000
+      internalID: 8653964890361071257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 29
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b697e3d108ab600800000000000000
+      internalID: 484840772986301322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_34
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 29
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c27ee50e495ee8b0800000000000000
+      internalID: -5121057534631841082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a47190eea590100800000000000000
+      internalID: 74690847229561496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a64fca016b3aad0800000000000000
+      internalID: -2692107969499993547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9830c250c325a00800000000000000
+      internalID: 743722881380485556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_38
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b6aac9d7d0c8a0800000000000000
+      internalID: -6286787749401413183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_39
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8792410e30c40900800000000000000
+      internalID: 649855618789840778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_40
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9360124460232120800000000000000
+      internalID: 2387787842413683610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 34
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b38f4f6275e4d660800000000000000
+      internalID: 7409799566587823025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_42
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddc4a37208750c80800000000000000
+      internalID: -8357141581590639149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_43
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac3811a1190bed30800000000000000
+      internalID: 4461669827162422445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 34
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d00550d17f5b6d0800000000000000
+      internalID: -2975200274793099992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_45
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305249eb9c25bb0800000000000000
+      internalID: -4948671220160330950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_46
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 34
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36853f51826c40fd0800000000000000
+      internalID: -2376556827875518365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_47
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 34
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd7a9da68f1d810800000000000000
+      internalID: 1788483664844676986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_48
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 34
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa032b51d878ce10800000000000000
+      internalID: 2218155657052490411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 34
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59370924f034d920800000000000000
+      internalID: 3014087875836197210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stages - Stage 19-1_50
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e2c9f12ec2ed370800000000000000
+      internalID: 8349160108896038414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_0: -186549909495370055
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_1: 4754853938416989708
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_10: -621293433630823540
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_11: 1836118898470322095
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_12: 35572670697129019
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_13: -8566694876524967768
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_14: 8831019540542760790
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_15: 20031855912305712
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_16: -3335037089934744116
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_17: -2794539634047853460
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_18: 9170486102267159159
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_19: -2243282605806941195
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_2: 1086856801904537892
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_20: -3445251075748116630
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_21: -7564826788372983353
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_22: 6882256210724381147
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_23: 2132006124941016578
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_24: 236872604550657953
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_25: 8216602052212679370
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_26: -6011009256183648164
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_27: -1692868665470468358
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_28: -642731083493548106
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_29: -145918690543154856
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_3: -7805483558706729260
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_30: 4289240538643551538
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_31: 3699774750081517938
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_32: 8653964890361071257
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_33: 484840772986301322
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_34: -5121057534631841082
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_35: 74690847229561496
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_36: -2692107969499993547
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_37: 743722881380485556
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_38: -6286787749401413183
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_39: 649855618789840778
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_4: 41082710555313504
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_40: 2387787842413683610
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_41: 7409799566587823025
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_42: -8357141581590639149
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_43: 4461669827162422445
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_44: -2975200274793099992
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_45: -4948671220160330950
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_46: -2376556827875518365
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_47: 1788483664844676986
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_48: 2218155657052490411
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_49: 3014087875836197210
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_5: 2319084239025057099
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_50: 8349160108896038414
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_6: 1191843737688794894
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_7: 8166468013218210065
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_8: -8656333590104412341
+      Mobile - Metal Slug Attack - Stages - Stage 19-1_9: -6478919142526138755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

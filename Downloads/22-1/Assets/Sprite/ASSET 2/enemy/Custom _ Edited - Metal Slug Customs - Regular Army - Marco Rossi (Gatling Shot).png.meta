@@ -1,0 +1,4765 @@
+fileFormatVersion: 2
+guid: a7ffabd01f6384ace8eb6ffe2f301014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5809240421131769266
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_0
+  - first:
+      213: 209607575983450697
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_1
+  - first:
+      213: -1478528359796525101
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_2
+  - first:
+      213: -617485971406010955
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_3
+  - first:
+      213: -4167441231172130957
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_4
+  - first:
+      213: -1362662665986118268
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_5
+  - first:
+      213: 2890042669049297782
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_6
+  - first:
+      213: -846872426536319259
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_7
+  - first:
+      213: -8656157053304201645
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_8
+  - first:
+      213: 2623736640459457251
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_9
+  - first:
+      213: -1731090012717169675
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_10
+  - first:
+      213: -6107547951038676617
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_11
+  - first:
+      213: 6968686241138509413
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_12
+  - first:
+      213: 2803279442093456609
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_13
+  - first:
+      213: 793561158018691905
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_14
+  - first:
+      213: 4736996591248277888
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_15
+  - first:
+      213: -7147281483161350038
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_16
+  - first:
+      213: 6243669859602897747
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_17
+  - first:
+      213: -7630100280062003119
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_18
+  - first:
+      213: -6852594771644295188
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_19
+  - first:
+      213: 8396182308026684213
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_20
+  - first:
+      213: 5054600428836443509
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_21
+  - first:
+      213: 7638680126012853972
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_22
+  - first:
+      213: -6502920512621294916
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_23
+  - first:
+      213: 1340824091479103517
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_24
+  - first:
+      213: -6706762085649323664
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_25
+  - first:
+      213: 5071155295776080180
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_26
+  - first:
+      213: -3593514817423400919
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_27
+  - first:
+      213: -2489228873096937384
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_28
+  - first:
+      213: -3873205367680202052
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_29
+  - first:
+      213: -286819530117460786
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_30
+  - first:
+      213: 8863097543696001573
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_31
+  - first:
+      213: -7560520062235614636
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_32
+  - first:
+      213: -8614493574253662678
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_33
+  - first:
+      213: 8509524046285582075
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_34
+  - first:
+      213: -1721876275322930395
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_35
+  - first:
+      213: -6733809367674382648
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_36
+  - first:
+      213: 8698549728550875709
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_37
+  - first:
+      213: 3558066471469097273
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_38
+  - first:
+      213: -5614369910313502402
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_39
+  - first:
+      213: 2185106593767233650
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_40
+  - first:
+      213: 4610433536275423183
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_41
+  - first:
+      213: -7561602122439204496
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_42
+  - first:
+      213: 8759277818658868535
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_43
+  - first:
+      213: 8080812045911972464
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_44
+  - first:
+      213: -8491736348791439975
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_45
+  - first:
+      213: 7422952611889920828
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_46
+  - first:
+      213: -331563041187468667
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_47
+  - first:
+      213: -5068703280462475587
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_48
+  - first:
+      213: -8562464608283671776
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_49
+  - first:
+      213: 6477826247477435944
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_50
+  - first:
+      213: -5141776526478082635
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_51
+  - first:
+      213: -2742624474396582441
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_52
+  - first:
+      213: -6230087336519259478
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_53
+  - first:
+      213: 4775065714379177714
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_54
+  - first:
+      213: 6933393253443966939
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_55
+  - first:
+      213: 5511232883443154891
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_56
+  - first:
+      213: 8698703733183242953
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_57
+  - first:
+      213: 8113545853805140833
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_58
+  - first:
+      213: 4467957668038531104
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_59
+  - first:
+      213: -5603281822439449732
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_60
+  - first:
+      213: 84693036616985344
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_61
+  - first:
+      213: 5752216403059898906
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_62
+  - first:
+      213: 1064904705149482812
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_63
+  - first:
+      213: 8533577220735186812
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_64
+  - first:
+      213: 1381127320860561446
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_65
+  - first:
+      213: 3528908257838561462
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_66
+  - first:
+      213: -2151751622006336688
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_67
+  - first:
+      213: -9042806035150543275
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_68
+  - first:
+      213: -1450951294968808725
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_69
+  - first:
+      213: 3194572679668342738
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_70
+  - first:
+      213: 1039539180480502565
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_71
+  - first:
+      213: 4554558223465690159
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_72
+  - first:
+      213: -3985300364571015270
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_73
+  - first:
+      213: -8854611851502121065
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_74
+  - first:
+      213: -4184557132865667377
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_75
+  - first:
+      213: -4964952580117488751
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_76
+  - first:
+      213: 2412298953958312685
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_77
+  - first:
+      213: -4171412821219804037
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_78
+  - first:
+      213: 7778432605300846093
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_79
+  - first:
+      213: 3781359643637285218
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_80
+  - first:
+      213: -7807958179957502365
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_81
+  - first:
+      213: -8774447338244167711
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_82
+  - first:
+      213: 5757338900750345472
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_83
+  - first:
+      213: -6346200531596894898
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_84
+  - first:
+      213: -2590020091269569860
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_85
+  - first:
+      213: 4146843911025361547
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_86
+  - first:
+      213: 1155529467266054887
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_87
+  - first:
+      213: 8959900025949380679
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_88
+  - first:
+      213: 2239340987640441435
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_89
+  - first:
+      213: -5400381268672095786
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_90
+  - first:
+      213: -5682406326323092344
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_91
+  - first:
+      213: -4334177931181877214
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_92
+  - first:
+      213: 122306590086746179
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_93
+  - first:
+      213: -6412372071438495505
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_94
+  - first:
+      213: 9078375278439059882
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_95
+  - first:
+      213: -7012625815263266148
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_96
+  - first:
+      213: 4296696042171529090
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_97
+  - first:
+      213: 1688134145752773546
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_98
+  - first:
+      213: -1592358828067002749
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_99
+  - first:
+      213: 8598549735701930249
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_100
+  - first:
+      213: -8169265234318531987
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_101
+  - first:
+      213: -7295651999791653255
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_102
+  - first:
+      213: -501390822646730262
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_103
+  - first:
+      213: -1311086351612965323
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_104
+  - first:
+      213: 435410226759961606
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_105
+  - first:
+      213: -2488240465390832697
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_106
+  - first:
+      213: 4766651957013582225
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_107
+  - first:
+      213: 1569701159938543085
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_108
+  - first:
+      213: 6773965655690876736
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_109
+  - first:
+      213: -6708642359673982408
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_110
+  - first:
+      213: -5400406524863997538
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_111
+  - first:
+      213: -2766038532832640659
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_112
+  - first:
+      213: 7477472960257529569
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_113
+  - first:
+      213: -8772344894112941414
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_114
+  - first:
+      213: -1034719551453236661
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_115
+  - first:
+      213: 8399442759239890235
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_116
+  - first:
+      213: 5335477251639468349
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_117
+  - first:
+      213: 3581103158686803201
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_118
+  - first:
+      213: -9059132154018268650
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_119
+  - first:
+      213: -1830040419226492057
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_120
+  - first:
+      213: -4965767597110996883
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_121
+  - first:
+      213: -5017187871350689160
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_122
+  - first:
+      213: -1053064951167183618
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_123
+  - first:
+      213: 2992971091473219300
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_124
+  - first:
+      213: -4788775009482854755
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_125
+  - first:
+      213: 3779824642679626727
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_126
+  - first:
+      213: 1804753351549433035
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_127
+  - first:
+      213: -4751420767012954185
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_128
+  - first:
+      213: 1787780589639106771
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_129
+  - first:
+      213: -2263201060494148301
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_130
+  - first:
+      213: -7626676963408548642
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_131
+  - first:
+      213: 648378490822071454
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_132
+  - first:
+      213: -8663305596292131667
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_133
+  - first:
+      213: -7263946948788465458
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_134
+  - first:
+      213: 3244231678815261252
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_135
+  - first:
+      213: 559848769510073886
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_136
+  - first:
+      213: 5404496847197370844
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_137
+  - first:
+      213: 7585599849847560150
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_138
+  - first:
+      213: 5825183439296336864
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_139
+  - first:
+      213: -1654281698880641669
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_140
+  - first:
+      213: 7599457345444368133
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_141
+  - first:
+      213: -6956903028027432454
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_142
+  - first:
+      213: 2671935022396798830
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_143
+  - first:
+      213: 4706017511205533045
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_144
+  - first:
+      213: -8825396232966744952
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_145
+  - first:
+      213: -5265124174655566130
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_146
+  - first:
+      213: 608938061506378471
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_147
+  - first:
+      213: -247805799171007216
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_148
+  - first:
+      213: 140593271496619579
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_149
+  - first:
+      213: 4720182377807094044
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_150
+  - first:
+      213: -4853755167401567815
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_151
+  - first:
+      213: 3769218072022462511
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_152
+  - first:
+      213: 2142766733830408353
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_153
+  - first:
+      213: -3483984142806678631
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_154
+  - first:
+      213: 8750709679674545295
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_155
+  - first:
+      213: -8898020821047749077
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_156
+  - first:
+      213: 4266650815870737405
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_157
+  - first:
+      213: -155194447338050955
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_158
+  - first:
+      213: 2122029434520517595
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_159
+  - first:
+      213: -137760653848723097
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_160
+  - first:
+      213: 4999918697439311112
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_161
+  - first:
+      213: 1033779493325151826
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_162
+  - first:
+      213: -3826204847404752828
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_163
+  - first:
+      213: 5809295325478093493
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_164
+  - first:
+      213: -3040348346161922399
+    second: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+      Shot)_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1304
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aa99b9d9e616fa0800000000000000
+      internalID: -5809240421131769266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1263
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a69b4dafca8e200800000000000000
+      internalID: 209607575983450697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1263
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7bcf35a463b7be0800000000000000
+      internalID: -1478528359796525101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1263
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5ce84d7cf3e67f0800000000000000
+      internalID: -617485971406010955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1263
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3772ba1c7464a26c0800000000000000
+      internalID: -4167441231172130957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1229
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48de5356689d61de0800000000000000
+      internalID: -1362662665986118268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1188
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bb762de7e7b1820800000000000000
+      internalID: 2890042669049297782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1188
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6ca36d30e4f34f0800000000000000
+      internalID: -846872426536319259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1188
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9fc5b5072fd780800000000000000
+      internalID: -8656157053304201645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1188
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e243c6c292696420800000000000000
+      internalID: 2623736640459457251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1188
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f344cd1ecee9f7e0800000000000000
+      internalID: -1731090012717169675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1188
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771cca96f71ad3ba0800000000000000
+      internalID: -6107547951038676617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1154
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5668632f63fb5b060800000000000000
+      internalID: 6968686241138509413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1113
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecb228dccf37e620800000000000000
+      internalID: 2803279442093456609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1113
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14370433bab430b00800000000000000
+      internalID: 793561158018691905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1117
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08107935d413db140800000000000000
+      internalID: 4736996591248277888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1118
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60d076eb51cfcc90800000000000000
+      internalID: -7147281483161350038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1119
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b917c28a8f5a650800000000000000
+      internalID: 6243669859602897747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1119
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158bb46a8307c1690800000000000000
+      internalID: -7630100280062003119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1119
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7517e9c51b6e0a0800000000000000
+      internalID: -6852594771644295188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1079
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5339953035b358470800000000000000
+      internalID: 8396182308026684213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1021
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57555524f4c852640800000000000000
+      internalID: 5054600428836443509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1021
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de05d76a1b020a60800000000000000
+      internalID: 7638680126012853972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 979
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba4b9a6f3cf0c5a0800000000000000
+      internalID: -6502920512621294916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 979
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18d5ee38609b9210800000000000000
+      internalID: 1340824091479103517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 979
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07960d3ca6bcce2a0800000000000000
+      internalID: -6706762085649323664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 979
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43103959fdc506640800000000000000
+      internalID: 5071155295776080180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 979
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92020641055412ec0800000000000000
+      internalID: -3593514817423400919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 930
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8504966478b747dd0800000000000000
+      internalID: -2489228873096937384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 930
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba094d3d3c9f3ac0800000000000000
+      internalID: -3873205367680202052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 937
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc44b03823050cf0800000000000000
+      internalID: -286819530117460786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 937
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a23add14c000b70800000000000000
+      internalID: 8863097543696001573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 937
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4526b3d8f03a31790800000000000000
+      internalID: -7560520062235614636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 937
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ea9ba5cbb237880800000000000000
+      internalID: -8614493574253662678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 937
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe2f72e807e71670800000000000000
+      internalID: 8509524046285582075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 937
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b343686aaaa18e0800000000000000
+      internalID: -1721876275322930395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_36
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 937
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6129eae04bc82a0800000000000000
+      internalID: -6733809367674382648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 937
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32785724e477b870800000000000000
+      internalID: 8698549728550875709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 855
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931a427ba9ac06130800000000000000
+      internalID: 3558066471469097273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 855
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e393f121050c512b0800000000000000
+      internalID: -5614369910313502402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 862
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2781cddaede035e10800000000000000
+      internalID: 2185106593767233650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 862
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf9e36cfdc8bff30800000000000000
+      internalID: 4610433536275423183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_42
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 862
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071eb27ceeacf0790800000000000000
+      internalID: -7561602122439204496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 862
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dce1674c43f8970800000000000000
+      internalID: 8759277818658868535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 862
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ad745edbfc42070800000000000000
+      internalID: 8080812045911972464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_45
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 862
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d730c28ca472a80800000000000000
+      internalID: -8491736348791439975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_46
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 862
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bb1407210a30760800000000000000
+      internalID: 7422952611889920828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_47
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 862
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6f55bb2d066bf0800000000000000
+      internalID: -331563041187468667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 829
+        width: 55
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe4d28b83958a9b0800000000000000
+      internalID: -5068703280462475587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 829
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c56dfdc30c2980800000000000000
+      internalID: -8562464608283671776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_50
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 829
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e189da6acd5e950800000000000000
+      internalID: 6477826247477435944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_51
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 829
+        width: 57
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdf4d0dd7db4a8b0800000000000000
+      internalID: -5141776526478082635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 787
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd9c43529d30f9d0800000000000000
+      internalID: -2742624474396582441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 787
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa2c1b63984a89a0800000000000000
+      internalID: -6230087336519259478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 787
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feb7b4c7f0744240800000000000000
+      internalID: 4775065714379177714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 787
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd71e97ed6c583060800000000000000
+      internalID: 6933393253443966939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 787
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb4149b15db7c40800000000000000
+      internalID: 5511232883443154891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 787
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c260c625f008b870800000000000000
+      internalID: 8698703733183242953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 787
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b16e477fa199070800000000000000
+      internalID: 8113545853805140833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 787
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0285beaa3df510e30800000000000000
+      internalID: 4467957668038531104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 741
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd715bed42d32b0800000000000000
+      internalID: -5603281822439449732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 743
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b218a3ed3ec2100800000000000000
+      internalID: 84693036616985344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 743
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a7f8f875af3df40800000000000000
+      internalID: 5752216403059898906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 743
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b31eef2d47ce00800000000000000
+      internalID: 1064904705149482812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_64
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 743
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773949f44b5d6670800000000000000
+      internalID: 8533577220735186812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_65
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 743
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6201b751bffba2310800000000000000
+      internalID: 1381127320860561446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_66
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 743
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8f8611d5339f030800000000000000
+      internalID: 3528908257838561462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 743
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053117ddc417322e0800000000000000
+      internalID: -2151751622006336688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 704
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556e71662df718280800000000000000
+      internalID: -9042806035150543275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 660
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beabdf41c7f2ddbe0800000000000000
+      internalID: -1450951294968808725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 660
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9cc43de6655c20800000000000000
+      internalID: 3194572679668342738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 660
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b14ae706f2d6e00800000000000000
+      internalID: 1039539180480502565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 660
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24b18ab29a053f30800000000000000
+      internalID: 4554558223465690159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 649
+        width: 74
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a978286fe6e51b8c0800000000000000
+      internalID: -3985300364571015270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_74
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 629
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f804f4f691e1580800000000000000
+      internalID: -8854611851502121065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_75
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 599
+        width: 249
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef63955777de5c0800000000000000
+      internalID: -4184557132865667377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 604
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b107f0fe1f81bb0800000000000000
+      internalID: -4964952580117488751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 604
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4bb22e153a7120800000000000000
+      internalID: 2412298953958312685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 604
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cfea3e32a2c16c0800000000000000
+      internalID: -4171412821219804037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 604
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee54c1e3b82fb60800000000000000
+      internalID: 7778432605300846093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_80
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 604
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618ff6bf861a7430800000000000000
+      internalID: 3781359643637285218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 604
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e0786576f84a390800000000000000
+      internalID: -7807958179957502365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_82
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 550
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a59782a6ea3680800000000000000
+      internalID: -8774447338244167711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 550
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00523cef93d26ef40800000000000000
+      internalID: 5757338900750345472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 550
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d95c87d34cde7a0800000000000000
+      internalID: -6346200531596894898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 552
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a0c213766e0cd0800000000000000
+      internalID: -2590020091269569860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 555
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8288afe09c8c8930800000000000000
+      internalID: 4146843911025361547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 556
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab3ef9de3490010800000000000000
+      internalID: 1155529467266054887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 503
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740e9bd1a95f75c70800000000000000
+      internalID: 8959900025949380679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 505
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae74383ccb31f10800000000000000
+      internalID: 2239340987640441435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 507
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9502d39ddfd05b0800000000000000
+      internalID: -5400381268672095786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_91
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 509
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884641a8d890421b0800000000000000
+      internalID: -5682406326323092344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 508
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22811929228e9d3c0800000000000000
+      internalID: -4334177931181877214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 507
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3405fc7123582b100800000000000000
+      internalID: 122306590086746179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_94
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 417
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0d542439da207a0800000000000000
+      internalID: -6412372071438495505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_95
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 479
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15c09673edcfd70800000000000000
+      internalID: 9078375278439059882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_96
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 456
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9abf7ab9f52eae90800000000000000
+      internalID: -7012625815263266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 451
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287f575194ee0ab30800000000000000
+      internalID: 4296696042171529090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 452
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33dcabf057d6710800000000000000
+      internalID: 1688134145752773546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_99
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 463
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386eb12251ec6e9e0800000000000000
+      internalID: -1592358828067002749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 454
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ea047d6f245770800000000000000
+      internalID: 8598549735701930249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_101
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 391
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62ee705d80f0ae80800000000000000
+      internalID: -8169265234318531987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_102
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 386
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97edc830923a0ca90800000000000000
+      internalID: -7295651999791653255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_103
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 386
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1308a04b3ba09f0800000000000000
+      internalID: -501390822646730262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_104
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 395
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0f3ed8e51ecde0800000000000000
+      internalID: -1311086351612965323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_105
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 389
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c89995b43ea0600800000000000000
+      internalID: 435410226759961606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_106
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 349
+        width: 95
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c370a0ea7ef77dd0800000000000000
+      internalID: -2488240465390832697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_107
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 392
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19117b933bc862240800000000000000
+      internalID: 4766651957013582225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 318
+        width: 81
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc7a963e2b8c510800000000000000
+      internalID: 1569701159938543085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_109
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 321
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0479624bfd5f10e50800000000000000
+      internalID: 6773965655690876736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 321
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327e7a515d16e2a0800000000000000
+      internalID: -6708642359673982408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 259
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9997c2d0e6ed05b0800000000000000
+      internalID: -5400406524863997538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_112
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 252
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61c7770c9e0d99d0800000000000000
+      internalID: -2766038532832640659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_113
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 254
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e61dbd3a0255c760800000000000000
+      internalID: 7477472960257529569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_114
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 251
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9abf23fbce524680800000000000000
+      internalID: -8772344894112941414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_115
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 192
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b427a75dc00f3a1f0800000000000000
+      internalID: -1034719551453236661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_116
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 184
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3578b7ffa0d09470800000000000000
+      internalID: 8399442759239890235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_117
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 189
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31e523ba4c6b0a40800000000000000
+      internalID: 5335477251639468349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_118
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 182
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1056e8d6952a2b130800000000000000
+      internalID: 3581103158686803201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_119
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 44
+        width: 273
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61afb62ad4f774280800000000000000
+      internalID: -9059132154018268650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_120
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 182
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e5674fe36a96e0800000000000000
+      internalID: -1830040419226492057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_121
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 120
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60dd012eac061bb0800000000000000
+      internalID: -4965767597110996883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_122
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 120
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8727eb4963e5f5ab0800000000000000
+      internalID: -5017187871350689160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_123
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 120
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4144c9103c261f0800000000000000
+      internalID: -1053064951167183618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_124
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 120
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee364aa95b298920800000000000000
+      internalID: 2992971091473219300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_125
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ea18a308ada8db0800000000000000
+      internalID: -4788775009482854755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_126
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 49
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebdf247c72a47430800000000000000
+      internalID: 3779824642679626727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_127
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 120
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bc4a7c95cb0910800000000000000
+      internalID: 1804753351549433035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_128
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 120
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf57cb8cff8f0eb0800000000000000
+      internalID: -4751420767012954185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_129
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 120
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d007c569f87fc810800000000000000
+      internalID: 1787780589639106771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d75fd50ae7790e0800000000000000
+      internalID: -2263201060494148301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 120
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce06ba5b9982690800000000000000
+      internalID: -7626676963408548642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_132
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 120
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9414795dc08ff800800000000000000
+      internalID: 648378490822071454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_133
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 120
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da49a58d571c5c780800000000000000
+      internalID: -8663305596292131667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec05e227cb6413b90800000000000000
+      internalID: -7263946948788465458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_135
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 120
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4425ad0f583d50d20800000000000000
+      internalID: 3244231678815261252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_136
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16669a5d7bf4c700800000000000000
+      internalID: 559848769510073886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_137
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9faee8f31a00b40800000000000000
+      internalID: 5404496847197370844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_138
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79b6a8fd6754960800000000000000
+      internalID: 7585599849847560150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_139
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 91
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e31fb2997537d050800000000000000
+      internalID: 5825183439296336864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_140
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b752ac34f8fca09e0800000000000000
+      internalID: -1654281698880641669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_141
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 91
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc1f82132b67960800000000000000
+      internalID: 7599457345444368133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_142
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 91
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e5952e8d147f90800000000000000
+      internalID: -6956903028027432454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_143
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 91
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67f2e01fbe941520800000000000000
+      internalID: 2671935022396798830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 55
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5757c2e2ef12f4140800000000000000
+      internalID: 4706017511205533045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_145
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 49
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88452f392e4e58580800000000000000
+      internalID: -8825396232966744952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_146
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece455f75758ee6b0800000000000000
+      internalID: -5265124174655566130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_147
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 75
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea7d4ec0f1637800800000000000000
+      internalID: 608938061506378471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_148
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d512740fd9f8cf0800000000000000
+      internalID: -247805799171007216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36bd55e5dc73f100800000000000000
+      internalID: 140593271496619579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_150
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 49
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1120403dd4718140800000000000000
+      internalID: 4720182377807094044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_151
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9105c346ff3acb0800000000000000
+      internalID: -4853755167401567815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_152
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b1e7cdd3fe4430800000000000000
+      internalID: 3769218072022462511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_153
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84c76ddf2acbd10800000000000000
+      internalID: 2142766733830408353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_154
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930aec81e666afc0800000000000000
+      internalID: -3483984142806678631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_155
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 20
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d2952714c07970800000000000000
+      internalID: 8750709679674545295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_156
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b265b6df431e38480800000000000000
+      internalID: -8898020821047749077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_157
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 28
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1b94bf40363b30800000000000000
+      internalID: 4266650815870737405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_158
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 28
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a6d4fe873a8ddf0800000000000000
+      internalID: -155194447338050955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_159
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 28
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb4871786f27d10800000000000000
+      internalID: 2122029434520517595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_160
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 28
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761425b4a63961ef0800000000000000
+      internalID: -137760653848723097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_161
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80534ba8097436540800000000000000
+      internalID: 4999918697439311112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_162
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 28
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e9ab3d8f8b85e00800000000000000
+      internalID: 1033779493325151826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_163
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 28
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ef80a6f696eac0800000000000000
+      internalID: -3826204847404752828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_164
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 28
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2857ec153ce9050800000000000000
+      internalID: 5809295325478093493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling
+        Shot)_165
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 28
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae7291a9438ec5d0800000000000000
+      internalID: -3040348346161922399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_0: -5809240421131769266
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_1: 209607575983450697
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_10: -1731090012717169675
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_100: 8598549735701930249
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_101: -8169265234318531987
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_102: -7295651999791653255
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_103: -501390822646730262
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_104: -1311086351612965323
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_105: 435410226759961606
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_106: -2488240465390832697
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_107: 4766651957013582225
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_108: 1569701159938543085
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_109: 6773965655690876736
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_11: -6107547951038676617
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_110: -6708642359673982408
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_111: -5400406524863997538
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_112: -2766038532832640659
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_113: 7477472960257529569
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_114: -8772344894112941414
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_115: -1034719551453236661
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_116: 8399442759239890235
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_117: 5335477251639468349
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_118: 3581103158686803201
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_119: -9059132154018268650
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_12: 6968686241138509413
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_120: -1830040419226492057
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_121: -4965767597110996883
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_122: -5017187871350689160
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_123: -1053064951167183618
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_124: 2992971091473219300
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_125: -4788775009482854755
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_126: 3779824642679626727
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_127: 1804753351549433035
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_128: -4751420767012954185
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_129: 1787780589639106771
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_13: 2803279442093456609
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_130: -2263201060494148301
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_131: -7626676963408548642
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_132: 648378490822071454
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_133: -8663305596292131667
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_134: -7263946948788465458
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_135: 3244231678815261252
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_136: 559848769510073886
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_137: 5404496847197370844
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_138: 7585599849847560150
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_139: 5825183439296336864
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_14: 793561158018691905
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_140: -1654281698880641669
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_141: 7599457345444368133
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_142: -6956903028027432454
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_143: 2671935022396798830
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_144: 4706017511205533045
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_145: -8825396232966744952
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_146: -5265124174655566130
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_147: 608938061506378471
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_148: -247805799171007216
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_149: 140593271496619579
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_15: 4736996591248277888
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_150: 4720182377807094044
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_151: -4853755167401567815
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_152: 3769218072022462511
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_153: 2142766733830408353
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_154: -3483984142806678631
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_155: 8750709679674545295
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_156: -8898020821047749077
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_157: 4266650815870737405
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_158: -155194447338050955
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_159: 2122029434520517595
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_16: -7147281483161350038
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_160: -137760653848723097
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_161: 4999918697439311112
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_162: 1033779493325151826
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_163: -3826204847404752828
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_164: 5809295325478093493
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_165: -3040348346161922399
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_17: 6243669859602897747
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_18: -7630100280062003119
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_19: -6852594771644295188
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_2: -1478528359796525101
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_20: 8396182308026684213
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_21: 5054600428836443509
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_22: 7638680126012853972
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_23: -6502920512621294916
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_24: 1340824091479103517
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_25: -6706762085649323664
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_26: 5071155295776080180
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_27: -3593514817423400919
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_28: -2489228873096937384
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_29: -3873205367680202052
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_3: -617485971406010955
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_30: -286819530117460786
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_31: 8863097543696001573
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_32: -7560520062235614636
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_33: -8614493574253662678
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_34: 8509524046285582075
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_35: -1721876275322930395
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_36: -6733809367674382648
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_37: 8698549728550875709
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_38: 3558066471469097273
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_39: -5614369910313502402
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_4: -4167441231172130957
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_40: 2185106593767233650
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_41: 4610433536275423183
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_42: -7561602122439204496
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_43: 8759277818658868535
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_44: 8080812045911972464
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_45: -8491736348791439975
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_46: 7422952611889920828
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_47: -331563041187468667
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_48: -5068703280462475587
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_49: -8562464608283671776
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_5: -1362662665986118268
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_50: 6477826247477435944
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_51: -5141776526478082635
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_52: -2742624474396582441
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_53: -6230087336519259478
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_54: 4775065714379177714
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_55: 6933393253443966939
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_56: 5511232883443154891
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_57: 8698703733183242953
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_58: 8113545853805140833
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_59: 4467957668038531104
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_6: 2890042669049297782
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_60: -5603281822439449732
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_61: 84693036616985344
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_62: 5752216403059898906
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_63: 1064904705149482812
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_64: 8533577220735186812
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_65: 1381127320860561446
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_66: 3528908257838561462
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_67: -2151751622006336688
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_68: -9042806035150543275
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_69: -1450951294968808725
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_7: -846872426536319259
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_70: 3194572679668342738
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_71: 1039539180480502565
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_72: 4554558223465690159
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_73: -3985300364571015270
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_74: -8854611851502121065
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_75: -4184557132865667377
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_76: -4964952580117488751
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_77: 2412298953958312685
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_78: -4171412821219804037
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_79: 7778432605300846093
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_8: -8656157053304201645
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_80: 3781359643637285218
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_81: -7807958179957502365
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_82: -8774447338244167711
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_83: 5757338900750345472
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_84: -6346200531596894898
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_85: -2590020091269569860
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_86: 4146843911025361547
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_87: 1155529467266054887
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_88: 8959900025949380679
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_89: 2239340987640441435
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_9: 2623736640459457251
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_90: -5400381268672095786
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_91: -5682406326323092344
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_92: -4334177931181877214
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_93: 122306590086746179
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_94: -6412372071438495505
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_95: 9078375278439059882
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_96: -7012625815263266148
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_97: 4296696042171529090
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_98: 1688134145752773546
+      Custom _ Edited - Metal Slug Customs - Regular Army - Marco Rossi (Gatling Shot)_99: -1592358828067002749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

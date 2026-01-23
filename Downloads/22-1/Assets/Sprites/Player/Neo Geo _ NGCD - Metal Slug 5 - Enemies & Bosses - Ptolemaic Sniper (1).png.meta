@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: ec7ad63b927ca154998436da5f3d3881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1214070354771697472
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_0
+  - first:
+      213: 4384812535212738068
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_1
+  - first:
+      213: 7806140974409984878
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_2
+  - first:
+      213: 6094290870574075212
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_3
+  - first:
+      213: 4016546859108324006
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_4
+  - first:
+      213: 7925233910668376404
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_5
+  - first:
+      213: -7383905022858638489
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_6
+  - first:
+      213: 5167046345899207806
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_7
+  - first:
+      213: -4454685764575546524
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_8
+  - first:
+      213: 4782517937398890225
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_9
+  - first:
+      213: 7474015486225974176
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_10
+  - first:
+      213: -356527460784221878
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_11
+  - first:
+      213: 4052147696318184924
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_12
+  - first:
+      213: 8947718478597713626
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_13
+  - first:
+      213: -7971982489403691086
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_14
+  - first:
+      213: 381326704454599698
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_15
+  - first:
+      213: 5871228972699723152
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_16
+  - first:
+      213: 4776595930623962404
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_17
+  - first:
+      213: -1048446640726596847
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_18
+  - first:
+      213: -5463489323638104617
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_19
+  - first:
+      213: -926286586305109910
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_20
+  - first:
+      213: -8041685496262226556
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_21
+  - first:
+      213: -2650427344281475017
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_22
+  - first:
+      213: -1031994188855993005
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_23
+  - first:
+      213: -8018301934860074202
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_24
+  - first:
+      213: 7703715756166207224
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_25
+  - first:
+      213: -8413244322603690401
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_26
+  - first:
+      213: -2770000644751482622
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_27
+  - first:
+      213: -1274010244392587995
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_28
+  - first:
+      213: -5056413462503305147
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_29
+  - first:
+      213: -3191550432503740454
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_30
+  - first:
+      213: -6231746837811870557
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_31
+  - first:
+      213: 7948619075325434726
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_32
+  - first:
+      213: -5322569365869522420
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_33
+  - first:
+      213: 8053574725543853891
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_34
+  - first:
+      213: -5673487965635753985
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_35
+  - first:
+      213: 1854631433913147350
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_36
+  - first:
+      213: 4226239893202673721
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_37
+  - first:
+      213: -4752749820363190062
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_38
+  - first:
+      213: -7383058042771413140
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_39
+  - first:
+      213: -6447726318968620637
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_40
+  - first:
+      213: -5129354979497710971
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_41
+  - first:
+      213: 2497659773048976273
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_42
+  - first:
+      213: -3708101128444355983
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_43
+  - first:
+      213: -4414043047019677673
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_44
+  - first:
+      213: 3775137213872732705
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_45
+  - first:
+      213: -3092551944777514820
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_46
+  - first:
+      213: 2699898003027357616
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_47
+  - first:
+      213: 4784603931464088929
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_48
+  - first:
+      213: -8431299103464250443
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_49
+  - first:
+      213: 9125411162805111930
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_50
+  - first:
+      213: -5831359145882156508
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_51
+  - first:
+      213: -404280906544443464
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_52
+  - first:
+      213: -2936901148338625178
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_53
+  - first:
+      213: -5913803327425075061
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_54
+  - first:
+      213: 3420062626231831756
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_55
+  - first:
+      213: 7218424095325395729
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_56
+  - first:
+      213: 4479716626364065617
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_57
+  - first:
+      213: -3675617749288731874
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_58
+  - first:
+      213: -6800833795060055961
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_59
+  - first:
+      213: -7922839968359267167
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_60
+  - first:
+      213: -3717296470334225639
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_61
+  - first:
+      213: 9191591623839753899
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_62
+  - first:
+      213: 1854755269834779277
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_63
+  - first:
+      213: -5431131888390136987
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_64
+  - first:
+      213: 3839967314928658777
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_65
+  - first:
+      213: -5736530217015183918
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_66
+  - first:
+      213: -4068270014074608959
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_67
+  - first:
+      213: 8442876075249836637
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_68
+  - first:
+      213: -6746515848219609439
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_69
+  - first:
+      213: 906071108542415362
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_70
+  - first:
+      213: -7957893065124707343
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_71
+  - first:
+      213: 3263274085631541864
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_72
+  - first:
+      213: -6760586845815373557
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_73
+  - first:
+      213: 7613339674828423574
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_74
+  - first:
+      213: 4995505332549121093
+    second: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0208bd171c62fe0800000000000000
+      internalID: -1214070354771697472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 347
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160900e4cbf9dc30800000000000000
+      internalID: 4384812535212738068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 347
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b24568bdbf45c60800000000000000
+      internalID: 7806140974409984878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 347
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d49720245439450800000000000000
+      internalID: 6094290870574075212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 347
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2dcd87614adb730800000000000000
+      internalID: 4016546859108324006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 347
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b44780461cfd60800000000000000
+      internalID: 7925233910668376404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc949d089178990800000000000000
+      internalID: -7383905022858638489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 299
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c6d41864905b740800000000000000
+      internalID: 5167046345899207806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4633c7826e6cd22c0800000000000000
+      internalID: -4454685764575546524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe3896a9baee5240800000000000000
+      internalID: 4782517937398890225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 251
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a384465c7909b760800000000000000
+      internalID: 7474015486225974176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 251
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d843d92c5d0bf0800000000000000
+      internalID: -356527460784221878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 251
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd76705cde1c3830800000000000000
+      internalID: 4052147696318184924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 188
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adee30b9c8eac2c70800000000000000
+      internalID: 8947718478597713626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf657bc924dd5190800000000000000
+      internalID: -7971982489403691086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 188
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214036a0e9eba4500800000000000000
+      internalID: 381326704454599698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 188
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095afb0c4abca7150800000000000000
+      internalID: 5871228972699723152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 206
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dea6001b0e94240800000000000000
+      internalID: 4776595930623962404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 233
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1132a8dc55b2371f0800000000000000
+      internalID: -1048446640726596847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 188
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd596e2869cd24b0800000000000000
+      internalID: -5463489323638104617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 188
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a602317e14b2523f0800000000000000
+      internalID: -926286586305109910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d01e7d5a1366090800000000000000
+      internalID: -8041685496262226556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ee197f5ac73bd0800000000000000
+      internalID: -2650427344281475017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 121
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d98f2c0ce9da1f0800000000000000
+      internalID: -1031994188855993005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 121
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62386de7fd449b090800000000000000
+      internalID: -8018301934860074202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 169
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ddd80aa819ea60800000000000000
+      internalID: 7703715756166207224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_26
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 158
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5692a62dd62e3b80800000000000000
+      internalID: -8413244322603690401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 172
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2012cf5f61bfe89d0800000000000000
+      internalID: -2770000644751482622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 166
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d65c6ce6ec15ee0800000000000000
+      internalID: -1274010244392587995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 169
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540dcf1feb204d9b0800000000000000
+      internalID: -5056413462503305147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 157
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7cedb8ac555b3d0800000000000000
+      internalID: -3191550432503740454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 166
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44f0aa4436489a0800000000000000
+      internalID: -6231746837811870557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 169
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b9aa77fea2f4e60800000000000000
+      internalID: 7948619075325434726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_33
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 155
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0298f6ac5f6226b0800000000000000
+      internalID: -5322569365869522420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 166
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffa101b8b04cf60800000000000000
+      internalID: 8053574725543853891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 56
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c3d231c8b341b0800000000000000
+      internalID: -5673487965635753985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df9aaf7679fcb910800000000000000
+      internalID: 1854631433913147350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_37
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 59
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9302ee19ace96aa30800000000000000
+      internalID: 4226239893202673721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 151
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d053f23837da0eb0800000000000000
+      internalID: -4752749820363190062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67e484c3db1a8990800000000000000
+      internalID: -7383058042771413140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a930fc03131586a0800000000000000
+      internalID: -6447726318968620637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 94
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a682892ded0d8b0800000000000000
+      internalID: -5129354979497710971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193fd56945879a220800000000000000
+      internalID: 2497659773048976273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 103
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a59d78bad2a8cc0800000000000000
+      internalID: -3708101128444355983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 93
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718fb1f3c3b2eb2c0800000000000000
+      internalID: -4414043047019677673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12afd336b4bf36430800000000000000
+      internalID: 3775137213872732705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 104
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c71a246c0515d0800000000000000
+      internalID: -3092551944777514820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf6b38dde6f77520800000000000000
+      internalID: 2699898003027357616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_48
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 103
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbaddfce3566240800000000000000
+      internalID: 4784603931464088929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3a1f6e2220efa80800000000000000
+      internalID: -8431299103464250443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c0264aa19f3ae70800000000000000
+      internalID: 9125411162805111930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42208ffa0c9d21fa0800000000000000
+      internalID: -5831359145882156508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 85
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf02ff48a4b36af0800000000000000
+      internalID: -404280906544443464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 93
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665e6d847f70e37d0800000000000000
+      internalID: -2936901148338625178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 92
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b882e45d433fdeda0800000000000000
+      internalID: -5913803327425075061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc432a96d0867f20800000000000000
+      internalID: 3420062626231831756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b9df7487efc2460800000000000000
+      internalID: 7218424095325395729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15767d089862b2e30800000000000000
+      internalID: 4479716626364065617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b368b91259dfcc0800000000000000
+      internalID: -3675617749288731874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 56
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76049fc12b59e91a0800000000000000
+      internalID: -6800833795060055961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_60
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4cda9960b6c0290800000000000000
+      internalID: -7922839968359267167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 56
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9134ae82e82896cc0800000000000000
+      internalID: -3717296470334225639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 82
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6ac6bf1e71f8f70800000000000000
+      internalID: 9191591623839753899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_63
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a29cb471a6db910800000000000000
+      internalID: 1854755269834779277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_64
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 68
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b9538a25eb0a4b0800000000000000
+      internalID: -5431131888390136987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 74
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ee6b8ded4a4530800000000000000
+      internalID: 3839967314928658777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 75
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f38b3920c360b0800000000000000
+      internalID: -5736530217015183918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 81
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a5b01af99a87c0800000000000000
+      internalID: -4068270014074608959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 56
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5229e3ee0f1b2570800000000000000
+      internalID: 8442876075249836637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_69
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6b353a49f8f52a0800000000000000
+      internalID: -6746515848219609439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2024ae56fd2039c00800000000000000
+      internalID: 906071108542415362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_71
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 56
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f382b48b62ef8190800000000000000
+      internalID: -7957893065124707343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_72
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 63
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624ec6cd7a794d20800000000000000
+      internalID: 3263274085631541864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_73
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 60
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010ff535129d22a0800000000000000
+      internalID: -6760586845815373557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_74
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914988d81408a960800000000000000
+      internalID: 7613339674828423574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 59
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f824f1a9935540800000000000000
+      internalID: 4995505332549121093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_0: -1214070354771697472
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_1: 4384812535212738068
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_10: 7474015486225974176
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_11: -356527460784221878
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_12: 4052147696318184924
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_13: 8947718478597713626
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_14: -7971982489403691086
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_15: 381326704454599698
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_16: 5871228972699723152
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_17: 4776595930623962404
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_18: -1048446640726596847
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_19: -5463489323638104617
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_2: 7806140974409984878
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_20: -926286586305109910
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_21: -8041685496262226556
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_22: -2650427344281475017
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_23: -1031994188855993005
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_24: -8018301934860074202
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_25: 7703715756166207224
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_26: -8413244322603690401
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_27: -2770000644751482622
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_28: -1274010244392587995
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_29: -5056413462503305147
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_3: 6094290870574075212
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_30: -3191550432503740454
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_31: -6231746837811870557
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_32: 7948619075325434726
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_33: -5322569365869522420
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_34: 8053574725543853891
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_35: -5673487965635753985
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_36: 1854631433913147350
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_37: 4226239893202673721
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_38: -4752749820363190062
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_39: -7383058042771413140
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_4: 4016546859108324006
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_40: -6447726318968620637
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_41: -5129354979497710971
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_42: 2497659773048976273
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_43: -3708101128444355983
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_44: -4414043047019677673
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_45: 3775137213872732705
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_46: -3092551944777514820
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_47: 2699898003027357616
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_48: 4784603931464088929
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_49: -8431299103464250443
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_5: 7925233910668376404
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_50: 9125411162805111930
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_51: -5831359145882156508
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_52: -404280906544443464
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_53: -2936901148338625178
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_54: -5913803327425075061
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_55: 3420062626231831756
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_56: 7218424095325395729
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_57: 4479716626364065617
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_58: -3675617749288731874
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_59: -6800833795060055961
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_6: -7383905022858638489
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_60: -7922839968359267167
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_61: -3717296470334225639
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_62: 9191591623839753899
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_63: 1854755269834779277
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_64: -5431131888390136987
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_65: 3839967314928658777
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_66: -5736530217015183918
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_67: -4068270014074608959
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_68: 8442876075249836637
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_69: -6746515848219609439
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_7: 5167046345899207806
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_70: 906071108542415362
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_71: -7957893065124707343
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_72: 3263274085631541864
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_73: -6760586845815373557
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_74: 7613339674828423574
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_75: 4995505332549121093
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_8: -4454685764575546524
+      Neo Geo _ NGCD - Metal Slug 5 - Enemies & Bosses - Ptolemaic Sniper (1)_9: 4782517937398890225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

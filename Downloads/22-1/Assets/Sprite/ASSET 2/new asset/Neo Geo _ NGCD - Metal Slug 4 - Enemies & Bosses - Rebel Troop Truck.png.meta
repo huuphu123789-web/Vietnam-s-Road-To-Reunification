@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: dacf631f796a944019468d5655bbd27d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2486684624571215152
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_0
+  - first:
+      213: 7371658958987906710
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_1
+  - first:
+      213: -4970800901342115758
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_2
+  - first:
+      213: -461566849086623913
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_3
+  - first:
+      213: 5617711726328266203
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_4
+  - first:
+      213: -5860596674495475226
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_5
+  - first:
+      213: 7372705114448504133
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_6
+  - first:
+      213: 1626519260687471144
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_7
+  - first:
+      213: -4213783114347227136
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_8
+  - first:
+      213: -168539316451639142
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_9
+  - first:
+      213: -6859377457605027411
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_10
+  - first:
+      213: 4404911775753748324
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_11
+  - first:
+      213: -6917509859045232559
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_12
+  - first:
+      213: -6896962961456200379
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_13
+  - first:
+      213: 8229348377470907138
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_14
+  - first:
+      213: 7163465570175726260
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_15
+  - first:
+      213: 933530230676595803
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_16
+  - first:
+      213: -1322239560346446601
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_17
+  - first:
+      213: -1313083352409618534
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_18
+  - first:
+      213: 7682034037429599340
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_19
+  - first:
+      213: 6698105992391815642
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_20
+  - first:
+      213: 8959198624634888076
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_21
+  - first:
+      213: 2938919477266552044
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_22
+  - first:
+      213: 6727497762544260665
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_23
+  - first:
+      213: -250391787130664826
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_24
+  - first:
+      213: -8907508750963539652
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_25
+  - first:
+      213: -4957787745178856671
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_26
+  - first:
+      213: -3794172055128284011
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_27
+  - first:
+      213: -8947784128513880952
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_28
+  - first:
+      213: -4792441035812361908
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_29
+  - first:
+      213: -1447135351368611806
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_30
+  - first:
+      213: -2150355492169852043
+    second: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 684
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d10c42858d7dd0800000000000000
+      internalID: -2486684624571215152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 602
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eccc734c46d4660800000000000000
+      internalID: 7371658958987906710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 579
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258cf4aaaea240bb0800000000000000
+      internalID: -4970800901342115758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 579
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f6810756f2899f0800000000000000
+      internalID: -461566849086623913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 579
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb75a1d0f16fd40800000000000000
+      internalID: 5617711726328266203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 579
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e19cd4106afaaea0800000000000000
+      internalID: -5860596674495475226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 493
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a8644d3c115660800000000000000
+      internalID: 7372705114448504133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 493
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8229b9166ae829610800000000000000
+      internalID: 1626519260687471144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 493
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0085bc44592a585c0800000000000000
+      internalID: -4213783114347227136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 493
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908638726a39adf0800000000000000
+      internalID: -168539316451639142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 472
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9512b7b889ec0a0800000000000000
+      internalID: -6859377457605027411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 472
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbcbcfbe3612d30800000000000000
+      internalID: 4404911775753748324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 392
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b8590f611000a0800000000000000
+      internalID: -6917509859045232559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 392
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545806d6ab01940a0800000000000000
+      internalID: -6896962961456200379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 392
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20337149fb4843270800000000000000
+      internalID: 8229348377470907138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 392
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2b01f7bfdb96360800000000000000
+      internalID: 7163465570175726260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 392
+        width: 125
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54219a7cc094fc00800000000000000
+      internalID: 933530230676595803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 392
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4d499102676ade0800000000000000
+      internalID: -1322239560346446601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 392
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a974523e5adf6cde0800000000000000
+      internalID: -1313083352409618534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 392
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c737181411c9a60800000000000000
+      internalID: 7682034037429599340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1fd6879e374fc50800000000000000
+      internalID: 6698105992391815642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 306
+        width: 141
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fd7856ea7755c70800000000000000
+      internalID: 8959198624634888076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 306
+        width: 143
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce413f981b329c820800000000000000
+      internalID: 2938919477266552044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 306
+        width: 145
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9369fab329fdc5d50800000000000000
+      internalID: 6727497762544260665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 91
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688c6690ffd668cf0800000000000000
+      internalID: -250391787130664826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3182292cfb226480800000000000000
+      internalID: -8907508750963539652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12354d03056623bb0800000000000000
+      internalID: -4957787745178856671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5946d554e94685bc0800000000000000
+      internalID: -3794172055128284011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4d051eb513d380800000000000000
+      internalID: -8947784128513880952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c492665f444dd7db0800000000000000
+      internalID: -4792441035812361908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_30
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 210
+        width: 123
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22883cfa01ebaebe0800000000000000
+      internalID: -1447135351368611806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1119
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd76ca2176822e0800000000000000
+      internalID: -2150355492169852043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_0: -2486684624571215152
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_1: 7371658958987906710
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_10: -6859377457605027411
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_11: 4404911775753748324
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_12: -6917509859045232559
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_13: -6896962961456200379
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_14: 8229348377470907138
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_15: 7163465570175726260
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_16: 933530230676595803
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_17: -1322239560346446601
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_18: -1313083352409618534
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_19: 7682034037429599340
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_2: -4970800901342115758
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_20: 6698105992391815642
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_21: 8959198624634888076
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_22: 2938919477266552044
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_23: 6727497762544260665
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_24: -250391787130664826
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_25: -8907508750963539652
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_26: -4957787745178856671
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_27: -3794172055128284011
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_28: -8947784128513880952
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_29: -4792441035812361908
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_3: -461566849086623913
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_30: -1447135351368611806
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_31: -2150355492169852043
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_4: 5617711726328266203
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_5: -5860596674495475226
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_6: 7372705114448504133
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_7: 1626519260687471144
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_8: -4213783114347227136
+      Neo Geo _ NGCD - Metal Slug 4 - Enemies & Bosses - Rebel Troop Truck_9: -168539316451639142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
