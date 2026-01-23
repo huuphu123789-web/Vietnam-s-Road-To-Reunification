@@ -87,7 +87,7 @@ Transform:
   m_GameObject: {fileID: 4188732121682851919}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.37, y: -1.06, z: 0}
+  m_LocalPosition: {x: -0.37, y: -1.11, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -151,6 +151,7 @@ Animator:
   m_WriteDefaultValuesOnDisable: 0
 --- !u!212 &5090385788671685014
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -196,6 +197,7 @@ SpriteRenderer:
   m_SortingLayerID: -234027423
   m_SortingLayer: 4
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_Sprite: {fileID: -855298285791758126, guid: 841d65b9ecec74806b283194c5388cc0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.48235294}
   m_FlipX: 0
@@ -205,7 +207,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &2975083739575792950
 BoxCollider2D:
@@ -297,6 +298,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1865325626088310711
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -340,9 +342,10 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 895747605
-  m_SortingLayer: 6
+  m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5602337906906987636, guid: 190927c94572440dcb12597cf84b3062, type: 3}
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 5088316998373936774, guid: c126fb761e974432ba80a344a335afcf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -351,7 +354,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &6749713193083595895
 Animator:
@@ -416,8 +418,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayController
   rb: {fileID: 4022119390195407348}
   playController: {fileID: 7002087690646785295}
-  leg: {fileID: 0}
-  body: {fileID: 0}
   animator: {fileID: 6749713193083595895}
   groundCheckLayerMask:
     serializedVersion: 2
@@ -478,17 +478,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.19628334, y: 0.24862355}
+  m_Offset: {x: -0.19628334, y: -0.098823816}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2, y: 1.875}
+    oldSize: {x: 2.0625, y: 2.375}
     newSize: {x: 2.0625, y: 2.375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.1101875, y: 1.3777529}
+  m_Size: {x: 1.1101875, y: 2.0726476}
   m_EdgeRadius: 0
 --- !u!1 &8422329607533176021
 GameObject:
