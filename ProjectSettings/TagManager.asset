@@ -14,6 +14,7 @@ TagManager:
   - BossTrigger
   - BossBoom
   - EnemyKnife
+  - Cars
   layers:
   - Default
   - TransparentFX
