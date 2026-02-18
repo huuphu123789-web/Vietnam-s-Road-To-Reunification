@@ -1,7 +1,5 @@
 using System.Collections;
 using NUnit.Framework;
-using Unity.Burst.Intrinsics;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemyController : MonoBehaviour

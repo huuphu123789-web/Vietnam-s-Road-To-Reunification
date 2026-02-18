@@ -58,8 +58,11 @@ IEnumerator EnemyAttack()
         {
             animator.SetTrigger("isAttack");
             swing++;
+            
         }
+       
         yield return new WaitForSeconds(attackDelay);
+        
         }
     }
 IEnumerator DoAttack()

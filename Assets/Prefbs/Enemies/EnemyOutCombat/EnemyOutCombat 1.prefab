@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -6975781310785947545}
   - component: {fileID: -8603606337249228819}
   - component: {fileID: 2510703532307936313}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: EnemyOutCombat 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,8 +103,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 895747605
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1406835680511458834, guid: 58a6fcde8f347475d8d89ead9163c7f7, type: 3}
@@ -132,8 +132,8 @@ MonoBehaviour:
   player: {fileID: 6572002314435057606, guid: 55d601244edef47c1bf3bbc5ed16eb69, type: 3}
   animator: {fileID: 8308108268568757886}
   rb: {fileID: -8603606337249228819}
-  runSpeed: 7
-  alarmRange: 5
+  runSpeed: 8
+  alarmRange: 10
 --- !u!50 &-8603606337249228819
 Rigidbody2D:
   serializedVersion: 5

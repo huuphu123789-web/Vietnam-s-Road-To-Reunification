@@ -15,6 +15,7 @@ TagManager:
   - BossBoom
   - EnemyKnife
   - Cars
+  - Obstacle
   layers:
   - Default
   - TransparentFX

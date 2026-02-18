@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 6285369051994569257}
   - component: {fileID: 3540775827498411240}
   - component: {fileID: -7408763761891281874}
-  m_Layer: 0
+  - component: {fileID: -6757501718631198373}
+  m_Layer: 9
   m_Name: EnemyOutCombat 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,8 +103,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 895747605
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2841278057555119800, guid: 58a6fcde8f347475d8d89ead9163c7f7, type: 3}
@@ -131,8 +132,8 @@ MonoBehaviour:
   player: {fileID: 6572002314435057606, guid: 55d601244edef47c1bf3bbc5ed16eb69, type: 3}
   animator: {fileID: 125945724206690880}
   rb: {fileID: -7408763761891281874}
-  runSpeed: 7
-  alarmRange: 5
+  runSpeed: 8
+  alarmRange: 10
 --- !u!50 &-7408763761891281874
 Rigidbody2D:
   serializedVersion: 5
@@ -160,3 +161,40 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!70 &-6757501718631198373
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7923757545517119288}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.25164133, y: 0}
+  m_Size: {x: 1.3730386, y: 2.5}
+  m_Direction: 0

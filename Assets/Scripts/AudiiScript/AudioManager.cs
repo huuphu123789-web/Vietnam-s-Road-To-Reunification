@@ -5,8 +5,8 @@ public class AudioManager : MonoBehaviour
     [SerializeField] AudioSource backgroundSource, gameOverScene, sfxSource, playBackGround,settingSource;
     [SerializeField]
     AudioClip backgroundClip, playSceneClip, bossFightClip, playerShootClip, bossShootClip, boomExplosionClip, bossHitClip, bossLaugh, enemyShoot, bossDeath,
-                                enemyDeath, enemyDeathbyG, playerDeath, mission1, reload, gettingHitClip, knifeDeath, gettingHitByKnife,victoryClip,settingClip
-                                ,supriseClip;
+                                enemyDeath, enemyDeathbyG, playerDeath, mission1, reload, gettingHitClip, knifeDeath, gettingHitByKnife,victoryClip,settingClip;
+                                
     public static AudioManager instance;
 
     private void Awake()
@@ -137,11 +137,6 @@ public class AudioManager : MonoBehaviour
     {
         PlaySFX(gettingHitByKnife);
     }
-
-
-    public void EnemySuprise()
-    {
-        PlaySFX(supriseClip);
-    }
+  
 
 }

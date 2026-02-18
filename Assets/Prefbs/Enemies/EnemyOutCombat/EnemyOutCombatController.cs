@@ -14,32 +14,42 @@ public class EnemyOutCombatController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        distanceToPlayer = Vector2.Distance(transform.position, player.position);
+        if (player != null)
+        {
+            player = GameObject.FindGameObjectWithTag("Player").transform;
+        }
+
         StartCoroutine(CheckPlayerInRange());
     }
 
     IEnumerator CheckPlayerInRange()
     {
+        distanceToPlayer = Vector2.Distance(transform.position, player.position);
         if (distanceToPlayer < alarmRange)
         {
             animator.SetBool("isScare", true);
-            yield return new WaitForSeconds(1);
-        }
-        RunAway();
+            yield return new WaitForSeconds(0.4f);
+            RunAway();
 
-        animator.SetBool("isRunAway", true);
-        transform.localScale = new Vector3(1, 0, 0);
+        }
+
+
     }
 
     public void RunAway()
     {
-        rb.linearVelocity = new Vector2(runSpeed * Time.deltaTime, rb.linearVelocity.y);
+
+        rb.linearVelocity = Vector2.right * runSpeed;
+        transform.localScale = new Vector3(-1, 1, 1);
+        animator.SetBool("isScare", false);
+        animator.SetBool("isRunAway", true);
+
 
     }
 

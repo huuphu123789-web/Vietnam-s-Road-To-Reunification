@@ -1,5 +1,5 @@
 
-using Unity.VisualScripting;
+
 using UnityEngine;
 
 public class ToiletFase1 : MonoBehaviour
@@ -32,7 +32,7 @@ public class ToiletFase1 : MonoBehaviour
             Debug.Log(hp);
             if(hp <=0)
             {
-                Instantiate(toiletFase2,transform.position,Quaternion.identity);
+                Instantiate(toiletFase2,transform.position + offset,Quaternion.identity);
                 Destroy(gameObject);
             }
         }

@@ -377,6 +377,7 @@ public class PlayController : MonoBehaviour
             CheckPlayerHpLife();
             Destroy(other.gameObject);
         }
+        
     }
 
     public void SetTrue()

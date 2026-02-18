@@ -43,7 +43,7 @@ public class BoomSript : MonoBehaviour
         {
             Explode();
         }
-        else if(other.CompareTag("Toilet"))
+        else if(other.CompareTag("Obstacle"))
         {
             Explode();
         }

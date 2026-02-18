@@ -61,6 +61,7 @@ Animator:
   m_WriteDefaultValuesOnDisable: 0
 --- !u!212 &5009395522265876671
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -106,6 +107,7 @@ SpriteRenderer:
   m_SortingLayerID: 895747605
   m_SortingLayer: 5
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_Sprite: {fileID: -6239954650463704464, guid: 29afbcfb62b2f49acb88a131557f786d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -115,7 +117,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &3329367815495936325
 MonoBehaviour:
@@ -135,7 +136,7 @@ MonoBehaviour:
   rb: {fileID: 1383586161076591713}
   animator: {fileID: 6131646277051540845}
   lineofSite: 50
-  moveSpeed: 7
+  moveSpeed: 6
   attackDelay: 2
   doDelay: 2
   radius: 0.4
@@ -206,8 +207,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.061107635, y: 0}
-  m_Size: {x: 0.3520546, y: 2.72}
+  m_Offset: {x: -0.061107635, y: -0.015842915}
+  m_Size: {x: 0.3520546, y: 2.1338177}
   m_Direction: 0
 --- !u!1 &3830258809457755064
 GameObject:
