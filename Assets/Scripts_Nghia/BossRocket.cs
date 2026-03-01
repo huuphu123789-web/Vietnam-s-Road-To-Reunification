@@ -15,7 +15,7 @@ public class RocketAirStrike : MonoBehaviour
     public float explosionRadius = 2f;
     public GameObject explosionFX;
     public LayerMask damageLayer;
-    public LayerMask hitLayer; // layer ground + player
+    public LayerMask hitLayer; 
 
     private Vector3 startPos;
     private Vector3 targetPos;
@@ -61,7 +61,6 @@ public class RocketAirStrike : MonoBehaviour
 
         float targetX = startPos.x + randomDistance * dir;
 
-        // rơi xuống thấp hơn để chắc chắn chạm ground
         targetPos = new Vector3(targetX, startPos.y - 50f, 0);
 
         anim.SetTrigger("Fall");
@@ -74,7 +73,6 @@ public class RocketAirStrike : MonoBehaviour
         isFalling = true;
     }
 
-    // 💥 CHẠM LÀ NỔ
     void OnTriggerEnter2D(Collider2D other)
     {
         if ((hitLayer.value & (1 << other.gameObject.layer)) > 0)
@@ -85,26 +83,22 @@ public class RocketAirStrike : MonoBehaviour
 
     void Explode()
     {
-        // Tắt collider để không kích hoạt nhiều lần
         Collider2D col = GetComponent<Collider2D>();
         if (col != null)
             col.enabled = false;
 
-        // Tắt animator
         Animator anim = GetComponent<Animator>();
         if (anim != null)
             anim.enabled = false;
 
-        // Ẩn sprite ngay lập tức
         SpriteRenderer sr = GetComponent<SpriteRenderer>();
         if (sr != null)
             sr.enabled = false;
 
-        // Spawn hiệu ứng nổ
         if (explosionFX)
         {
             GameObject fx = Instantiate(explosionFX, transform.position, Quaternion.identity);
-            Destroy(fx, 0.5f); // xoá FX sau 2 giây
+            Destroy(fx, 0.5f); 
         }
 
         Destroy(gameObject);

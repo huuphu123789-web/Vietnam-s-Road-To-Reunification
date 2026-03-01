@@ -40,14 +40,11 @@ public class BossCannon : MonoBehaviour
             return;
         }
 
-        // 🎬 Trigger animation
         if (anim != null)
             anim.SetTrigger("Shoot");
 
-        // 💥 Spawn bullet
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
 
-        // 🔥 Muzzle flash
         if (muzzleFlashPrefab != null)
         {
             GameObject flash = Instantiate(

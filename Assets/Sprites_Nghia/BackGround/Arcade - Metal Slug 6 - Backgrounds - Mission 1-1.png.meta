@@ -234,9 +234,9 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_1
       rect:
         serializedVersion: 2
-        x: 12
+        x: 13
         y: 2421
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -302,7 +302,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 2165
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -588,7 +588,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 1909
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -610,7 +610,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 1653
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -654,7 +654,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 1397
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -720,7 +720,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 1141
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -764,7 +764,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 885
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -830,7 +830,7 @@ TextureImporter:
         serializedVersion: 2
         x: 12
         y: 629
-        width: 2050
+        width: 2032
         height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

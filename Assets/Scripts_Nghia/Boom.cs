@@ -60,7 +60,6 @@ public class Boom : MonoBehaviour
 
         CancelInvoke();
 
-        // 🎆 Spawn explosion
         if (explosionFX)
         {
             GameObject fx = Instantiate(
@@ -81,7 +80,6 @@ public class Boom : MonoBehaviour
             }
         }
 
-        // 💥 Damage enemy (nếu cần)
         Collider2D[] hits = Physics2D.OverlapCircleAll(
             transform.position,
             damageRadius

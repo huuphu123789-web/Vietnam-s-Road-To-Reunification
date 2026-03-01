@@ -4,7 +4,7 @@ public class BossBullet : MonoBehaviour
 {
     [Header("Movement")]
     public float speed = 8f;
-    public Vector2 direction = Vector2.right; // hướng bay
+    public Vector2 direction = Vector2.right;
 
     [Header("Life Time")]
     public float lifeTime = 5f;

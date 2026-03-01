@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class SpawnTrigger : MonoBehaviour
 {
-    public GameObject bossPrefab;   // Prefab boss
-    public Transform spawnPoint;    // Điểm spawn
-    public bool spawnOnce = true;   // Chỉ spawn 1 lần
+    public GameObject bossPrefab;   
+    public Transform spawnPoint;    
+    public bool spawnOnce = true;   
 
     private bool hasSpawned = false;
 

@@ -13,7 +13,7 @@ public class CameraFollow : MonoBehaviour
     public Vector2 maxPos;
 
     [Header("Pixel")]
-    public float pixelsPerUnit = 16f; // PHẢI giống sprite
+    public float pixelsPerUnit = 16f;
 
     Camera cam;
     Vector3 velocity = Vector3.zero;
@@ -31,10 +31,8 @@ public class CameraFollow : MonoBehaviour
     {
         if (!target) return;
 
-        // target position
         Vector3 targetPos = target.position + offset;
 
-        // clamp theo size camera
         targetPos.x = Mathf.Clamp(
             targetPos.x,
             minPos.x + camWidth,
@@ -49,7 +47,6 @@ public class CameraFollow : MonoBehaviour
 
         targetPos.z = transform.position.z;
 
-        // smooth theo physics
         Vector3 smoothPos = Vector3.SmoothDamp(
             transform.position,
             targetPos,
@@ -57,7 +54,6 @@ public class CameraFollow : MonoBehaviour
             smoothTime
         );
 
-        // 🔥 SNAP CHỈ TRỤC X (KHÔNG GIẬT)
         smoothPos.x = Mathf.Round(smoothPos.x * pixelsPerUnit) / pixelsPerUnit;
 
         transform.position = smoothPos;

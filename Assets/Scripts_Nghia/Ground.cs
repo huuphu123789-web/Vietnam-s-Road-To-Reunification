@@ -36,10 +36,8 @@ public class SplineToEdgeCollider2D : MonoBehaviour
         {
             float t = i / (float)resolution;
 
-            // Evaluate xuyên suốt TẤT CẢ các đoạn spline (0 → 10 cũng OK)
             Vector3 worldPos = spline.EvaluatePosition(t);
 
-            // World → Local (EdgeCollider cần local)
             Vector3 localPos = transform.InverseTransformPoint(worldPos);
 
             points.Add(new Vector2(localPos.x, localPos.y));

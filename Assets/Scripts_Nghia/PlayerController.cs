@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    // ================= CONFIG =================
     [Header("Movement")]
     public float moveSpeed = 6f;
     public float crouchSpeed = 3f;
@@ -22,7 +21,6 @@ public class PlayerController : MonoBehaviour
     public Animator topAnim;
     public Animator downAnim;
 
-    // ================= ATTACK =================
     [Header("Fire / Knife / Throw")]
     public Collider2D knifeHitBoxTOP;
     public Collider2D knifeHitBoxDOWN;
@@ -39,7 +37,6 @@ public class PlayerController : MonoBehaviour
     public Vector2 standUpLocalPos = new Vector2(0f, 0.30f);
     public Vector2 crouchSideLocalPos = new Vector2(0.40f, -0.05f);
 
-    // ================= WEAPON =================
     [Header("Weapon")]
     public WeaponType currentWeapon = WeaponType.Pistol;
 
@@ -57,7 +54,6 @@ public class PlayerController : MonoBehaviour
     public AnimatorOverrideController akTopOverride;
     public AnimatorOverrideController akDownOverride;
 
-    // ================= THROW =================
     [Header("Throw Point")]
     public Transform throwPointTop;
     public Transform throwPointDown;
@@ -65,7 +61,6 @@ public class PlayerController : MonoBehaviour
     public GameObject grenadePrefab;
     public float throwForce = 8f;
 
-    // ================= STATE =================
     bool isGrounded;
     bool isCrouch;
     bool isShootingHold;
@@ -76,12 +71,10 @@ public class PlayerController : MonoBehaviour
     float fireTimer;
     float moveInput;
 
-    // ================= AIM =================
     float aimAngle = 0f;
     float aimTarget = 0f;
     public float aimSpeed = 90f;
 
-    // ================= UNITY =================
     void Awake()
     {
         topAnim = top.GetComponent<Animator>();
@@ -110,7 +103,6 @@ public class PlayerController : MonoBehaviour
         HandleMovement();
     }
 
-    // ================= INPUT =================
     void HandleInput()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
@@ -143,7 +135,6 @@ public class PlayerController : MonoBehaviour
             TriggerThrow();
     }
 
-    // ================= MOVE =================
     void HandleMovement()
     {
         if (isCrouch && (isTopAttacking || isDoingOnceAttack))
@@ -159,7 +150,6 @@ public class PlayerController : MonoBehaviour
             transform.localScale = new Vector3(Mathf.Sign(moveInput), 1f, 1f);
     }
 
-    // ================= AIM =================
     void UpdateAimSmooth()
     {
         if (!isShootingHold)
@@ -199,7 +189,6 @@ public class PlayerController : MonoBehaviour
         );
     }
 
-    // ================= ATTACK =================
     void HandleAttack()
     {
         fireTimer -= Time.deltaTime;
@@ -278,7 +267,6 @@ public class PlayerController : MonoBehaviour
             isTopAttacking = false;
     }
 
-    // ================= ANIM =================
     void UpdateAnimator()
     {
         bool isMoving = Mathf.Abs(moveInput) > 0.1f;
@@ -298,7 +286,6 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // ================= WEAPON =================
     public void FireBullet()
     {
         if (!firePoint) return;
@@ -333,7 +320,6 @@ public class PlayerController : MonoBehaviour
         downAnim.Rebind(); downAnim.Update(0f);
     }
 
-    // ================= THROW =================
     Transform GetThrowPoint()
     {
         return isCrouch ? throwPointDown : throwPointTop;
@@ -366,7 +352,6 @@ public class PlayerController : MonoBehaviour
         grb.linearVelocity = GetThrowDir().normalized * throwForce;
     }
 
-    // ================= GROUND =================
     void CheckGround()
     {
         isGrounded = Physics2D.OverlapBox(
