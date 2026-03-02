@@ -138,6 +138,7 @@ IEnumerator DoAttack()
         {
             Instantiate(knifeDeathByG, transform.position, Quaternion.identity);
             AudioManager.instance.EnemyDeathByG();
+            Destroy(other.gameObject);
             Destroy(gameObject);
 
         }

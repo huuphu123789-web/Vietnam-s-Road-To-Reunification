@@ -237,7 +237,7 @@ TextureImporter:
         x: 13
         y: 2421
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_4
       rect:
         serializedVersion: 2
-        x: 12
-        y: 2165
+        x: 10
+        y: 2164
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,7 +545,7 @@ TextureImporter:
         x: 4710
         y: 2389
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,7 +589,7 @@ TextureImporter:
         x: 12
         y: 1909
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,7 +611,7 @@ TextureImporter:
         x: 12
         y: 1653
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,8 +632,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2126
         y: 1893
-        width: 1952
-        height: 148
+        width: 1954
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,9 +653,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 12
-        y: 1397
+        y: 1396
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,8 +676,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2126
         y: 1635
-        width: 1950
-        height: 148
+        width: 1954
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +718,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_23
       rect:
         serializedVersion: 2
-        x: 12
-        y: 1141
+        x: 10
+        y: 1140
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -742,8 +742,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2126
         y: 1376
-        width: 1952
-        height: 151
+        width: 1954
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -765,7 +765,7 @@ TextureImporter:
         x: 12
         y: 885
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -786,7 +786,7 @@ TextureImporter:
         serializedVersion: 2
         x: 2126
         y: 1102
-        width: 1950
+        width: 1954
         height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -828,10 +828,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_28
       rect:
         serializedVersion: 2
-        x: 12
+        x: 11
         y: 629
         width: 2032
-        height: 258
+        height: 255
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +850,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_29
       rect:
         serializedVersion: 2
-        x: 2126
-        y: 847
-        width: 1950
-        height: 164
+        x: 2124
+        y: 845
+        width: 1954
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,8 +874,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2126
         y: 603
-        width: 1949
-        height: 149
+        width: 1954
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -897,7 +897,7 @@ TextureImporter:
         x: 2126
         y: 345
         width: 1954
-        height: 148
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,7 +919,7 @@ TextureImporter:
         x: 2126
         y: 87
         width: 1953
-        height: 148
+        height: 165
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -941,7 +941,7 @@ TextureImporter:
         x: 4710
         y: 2132
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -960,10 +960,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_34
       rect:
         serializedVersion: 2
-        x: 4710
+        x: 4708
         y: 1876
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,10 +982,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_35
       rect:
         serializedVersion: 2
-        x: 4710
+        x: 4707
         y: 1620
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1007,7 +1007,7 @@ TextureImporter:
         x: 4710
         y: 1364
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1029,7 +1029,7 @@ TextureImporter:
         x: 4710
         y: 1108
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,10 +1048,10 @@ TextureImporter:
       name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_38
       rect:
         serializedVersion: 2
-        x: 4708
+        x: 4705
         y: 853
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,7 +1073,7 @@ TextureImporter:
         x: 4709
         y: 596
         width: 2130
-        height: 255
+        height: 250
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

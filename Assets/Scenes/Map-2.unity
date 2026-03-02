@@ -220,6 +220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 42461662}
   - component: {fileID: 42461663}
+  - component: {fileID: 42461664}
   m_Layer: 0
   m_Name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_1
   m_TagString: Untagged
@@ -301,6 +302,28 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!95 &42461664
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 42461661}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7758efb1f65427d47be2086720e3506a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &160506294
 GameObject:
   m_ObjectHideFlags: 0
@@ -2907,8 +2930,8 @@ Transform:
   m_GameObject: {fileID: 272836840}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 70.19441, y: -0.51806545, z: 0}
-  m_LocalScale: {x: 1.4541863, y: 1.5024054, z: 1}
+  m_LocalPosition: {x: 70.2103, y: -0.51806545, z: 0}
+  m_LocalScale: {x: 1.4554951, y: 1.5024054, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1712820150}
@@ -5420,6 +5443,7 @@ GameObject:
   m_Component:
   - component: {fileID: 450683423}
   - component: {fileID: 450683424}
+  - component: {fileID: 450683425}
   m_Layer: 0
   m_Name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_19
   m_TagString: Untagged
@@ -5501,6 +5525,28 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!95 &450683425
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 450683422}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 26922c85b5f1c81439c014bb8a832d75, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &835537199
 GameObject:
   m_ObjectHideFlags: 0
@@ -9926,8 +9972,8 @@ Transform:
   m_GameObject: {fileID: 980416151}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 84.8302, y: -4.4035, z: 0}
-  m_LocalScale: {x: 5.7939386, y: 3.417644, z: 1}
+  m_LocalPosition: {x: 71.0412, y: -4.4368, z: 0}
+  m_LocalScale: {x: 3.106433, y: 3.2844899, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1712820150}
@@ -14643,6 +14689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1480043543}
   - component: {fileID: 1480043544}
+  - component: {fileID: 1480043545}
   m_Layer: 0
   m_Name: Arcade - Metal Slug 6 - Backgrounds - Mission 1-1_33
   m_TagString: Untagged
@@ -14724,6 +14771,28 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!95 &1480043545
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1480043542}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7525fbff6a290ef4e937dc747bdca265, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &1694081703
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14734,11 +14803,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 350639612376394704, guid: 278d3061d30c23e4d87a8d80befe0c60, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 177.92245
+      value: 119.51
       objectReference: {fileID: 0}
     - target: {fileID: 350639612376394704, guid: 278d3061d30c23e4d87a8d80befe0c60, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.0313604
+      value: 1.6
       objectReference: {fileID: 0}
     - target: {fileID: 350639612376394704, guid: 278d3061d30c23e4d87a8d80befe0c60, type: 3}
       propertyPath: m_LocalPosition.z

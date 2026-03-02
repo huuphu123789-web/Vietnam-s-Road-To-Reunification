@@ -15,15 +15,15 @@ public class EnemyFlyAttack : MonoBehaviour
     [SerializeField] private Transform findPlayer;
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
-    [SerializeField] private Transform groundCheckTransform,hitPoint;
-    [SerializeField] private LayerMask groundCheckPLayerMask,player;
-    [SerializeField] private GameObject deathPrefabs,deadbyGPre;
+    [SerializeField] private Transform groundCheckTransform;
+    [SerializeField] private LayerMask groundCheckPLayerMask;
+    [SerializeField] private GameObject deathPrefabs;
     [SerializeField] private int delayAction;
-    public Vector3 offset;
+    
 
     bool isGround = false;
     bool isJump= false;
-    public float hitBox;
+    
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -89,35 +89,14 @@ public class EnemyFlyAttack : MonoBehaviour
     
    
 }
-    public void HitPlayer()
-    {
-        Collider2D[] players = Physics2D.OverlapCircleAll(hitPoint.transform.position,hitBox,player);
-        foreach(Collider2D playerss in players)
-        {
-            PlayController.instance.playerHp = PlayController.instance.playerHp - 2 ;
-            AudioManager.instance.GettingHitByKnife();
-        }
-    }
     void OnTriggerEnter2D(Collider2D other)
     {
         if(other.CompareTag("Bullet"))
         {
             Instantiate(deathPrefabs,transform.position,Quaternion.identity);
             Destroy(gameObject);
-            Destroy(other.gameObject);
-        }
-        else if (other.CompareTag("Grenade"))
-        {
-            Instantiate(deadbyGPre,transform.position + offset,Quaternion.identity);
-            Destroy(gameObject);
-            
         }
     }
 
-    void OnDrawGizmos()
-    {
-        Gizmos.DrawWireSphere(hitPoint.position,hitBox);
-    }
-
-
+    
 }
