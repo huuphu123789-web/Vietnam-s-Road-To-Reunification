@@ -37,7 +37,6 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2571101255845996464
 SpriteRenderer:
-  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -83,7 +82,6 @@ SpriteRenderer:
   m_SortingLayerID: -234027423
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_MaskInteraction: 0
   m_Sprite: {fileID: 7748896457323014572, guid: b39ddc9aefd5144a08c004c9e63d9535, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -93,6 +91,7 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &620390827194344648
 MonoBehaviour:
@@ -107,6 +106,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BulletSript
   rb: {fileID: 5493665904612437336}
+  bulletDame: 1
 --- !u!50 &5493665904612437336
 Rigidbody2D:
   serializedVersion: 5
@@ -168,7 +168,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.01166153, y: 0.0116615}
+  m_Offset: {x: 0, y: 0.000000029802322}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -178,5 +178,5 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.9749613, y: 0.13499588}
+  m_Size: {x: 2.1333332, y: 0.28270775}
   m_EdgeRadius: 0
