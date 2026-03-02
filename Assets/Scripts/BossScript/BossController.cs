@@ -190,7 +190,16 @@ public class BossController : MonoBehaviour
     void ThrowBomb()
     {
 
-        GameObject bomb = Instantiate(bombPrefab, throwBoom.position, Quaternion.identity); animator?.SetTrigger("isBossThrow"); GameObject found = GameObject.FindGameObjectWithTag("Player"); if (found != null) { player = found.transform; Vector2 direction = (player.position - firePoint.position).normalized; Vector2 throwForceXY = new Vector2(throwForceX, throwForceY); bomb.GetComponent<Rigidbody2D>().AddForce(direction * throwForceXY, ForceMode2D.Impulse); if (player.position.x < transform.position.x) bomb.transform.localScale = new Vector3(-1, 1, 1); else bomb.transform.localScale = new Vector3(1, 1, 1); } else { Debug.LogWarning("Không tìm thấy Player. Đạn sẽ không định hướng."); }
+        GameObject bomb = Instantiate(bombPrefab, throwBoom.position, Quaternion.identity); 
+        animator?.SetTrigger("isBossThrow"); 
+        GameObject found = GameObject.FindGameObjectWithTag("Player"); 
+        if (found != null) { player = found.transform; 
+        Vector2 direction = (player.position - firePoint.position).normalized; 
+        Vector2 throwForceXY = new Vector2(throwForceX, throwForceY); 
+        bomb.GetComponent<Rigidbody2D>().AddForce(direction * throwForceXY, ForceMode2D.Impulse); 
+        if (player.position.x < transform.position.x) bomb.transform.localScale = new Vector3(-1, 1, 1); 
+        else bomb.transform.localScale = new Vector3(1, 1, 1); } 
+        else { Debug.LogWarning("Không tìm thấy Player. Đạn sẽ không định hướng."); }
     }
 
     IEnumerator JumpBetweenPoints()
