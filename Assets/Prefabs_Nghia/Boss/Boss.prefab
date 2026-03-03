@@ -499,7 +499,7 @@ Transform:
   m_GameObject: {fileID: 5563239224852192306}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 366.96, y: 0.23, z: 0}
+  m_LocalPosition: {x: 367.21, y: 0.22, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -898,9 +898,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BossCannon
   bulletPrefab: {fileID: 8231582128814378431, guid: 499312934fc45c24496d33646af1e26e, type: 3}
   firePoint: {fileID: 2285736188925210817}
-  muzzleFlashPrefab: {fileID: 0}
-  muzzleFlashTime: 3
-  fireRate: 3
+  muzzleFlashPrefab: {fileID: 3154462521190443599, guid: 8bf6212a020e47541b15ae8f7bcd7d90, type: 3}
+  muzzleFlashTime: 1
+  fireRate: 1
 --- !u!1 &9135704920384845716
 GameObject:
   m_ObjectHideFlags: 0

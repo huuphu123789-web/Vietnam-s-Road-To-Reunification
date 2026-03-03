@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class BossAttack : MonoBehaviour
+public class HeliAttack : MonoBehaviour
 {
     [Header("Bomb Settings")]
     public GameObject bombPrefab;

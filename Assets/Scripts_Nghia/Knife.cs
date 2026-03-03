@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class KnifeDamage : MonoBehaviour
+public class Knife : MonoBehaviour
 {
     public int damage = 1;
 

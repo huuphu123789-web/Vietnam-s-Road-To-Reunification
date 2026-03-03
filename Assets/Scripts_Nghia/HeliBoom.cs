@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Bomb : MonoBehaviour
+public class HeliBoom : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public LayerMask groundLayer;
