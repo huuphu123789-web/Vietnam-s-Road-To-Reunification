@@ -152,37 +152,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0.019038677, y: 0.18946336}
   m_Size: {x: 0.5693636, y: 1.180521}
   m_Direction: 0
---- !u!1 &2136855411297466721
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2583115839597927318}
-  m_Layer: 0
-  m_Name: FirePointDOWN
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2583115839597927318
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2136855411297466721}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.04499817, y: -0.2958603, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 350639612376394704}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2964481309440800822
 GameObject:
   m_ObjectHideFlags: 0
@@ -250,7 +219,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.27383423, y: -0.22997153}
+  m_Offset: {x: 0.69623566, y: -0.55489624}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -260,7 +229,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.3510742, y: 1.7407959}
+  m_Size: {x: 1.600174, y: 1.0909464}
   m_EdgeRadius: 0
 --- !u!114 &6391681433643449651
 MonoBehaviour:
@@ -300,7 +269,7 @@ Transform:
   m_GameObject: {fileID: 3190052261328018263}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1, y: -1.097, z: 0}
+  m_LocalPosition: {x: -0.1, y: -1.123, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -373,7 +342,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.27383423, y: -0.22997153}
+  m_Offset: {x: 0.69447327, y: 0.1661936}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -383,7 +352,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.3510742, y: 1.7407959}
+  m_Size: {x: 1.6109619, y: 1.1212938}
   m_EdgeRadius: 0
 --- !u!114 &6345874466029243171
 MonoBehaviour:
@@ -500,7 +469,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 895747605
-  m_SortingLayer: 6
+  m_SortingLayer: 5
   m_SortingOrder: 6
   m_MaskInteraction: 0
   m_Sprite: {fileID: 5602337906906987636, guid: d07ec0ba424378a4988ad58568cd7e82, type: 3}
@@ -578,14 +547,13 @@ Transform:
   m_GameObject: {fileID: 6429276060743746909}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 198.721, y: -2.913, z: 0}
+  m_LocalPosition: {x: 353.19, y: 1.77, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2758738451560411322}
   - {fileID: 4264423943992245656}
   - {fileID: 6273851716992108754}
-  - {fileID: 2583115839597927318}
   - {fileID: 1770926401058129730}
   - {fileID: 4528484709129284424}
   - {fileID: 9152638426366206353}
@@ -680,14 +648,30 @@ MonoBehaviour:
   rb: {fileID: 3553193145853670926}
   top: {fileID: 6266119850150232203}
   down: {fileID: 2073063247827047587}
-  playerCollider: {fileID: 4974120262814117341}
-  firePointTOP: {fileID: 6273851716992108754}
-  firePointDOWN: {fileID: 2583115839597927318}
+  topAnim: {fileID: 2495216890212137101}
+  downAnim: {fileID: 406026455185777139}
   knifeHitBoxTOP: {fileID: 3143929234893290097}
   knifeHitBoxDOWN: {fileID: 1616938107643906379}
-  throwPointTOP: {fileID: 9152638426366206353}
-  throwPointDOWN: {fileID: 2203110688961087061}
   fireRate: 0.12
+  bulletPrefab: {fileID: 2411127074210155506, guid: 08b43a65c346cf34c8c9aca5b521f5cc, type: 3}
+  firePoint: {fileID: 6273851716992108754}
+  standSideLocalPos: {x: 2, y: 0.3}
+  standUpLocalPos: {x: -0.25, y: 2}
+  crouchSideLocalPos: {x: 1.2, y: -0.3}
+  currentWeapon: 0
+  pistolBullet: {fileID: 2411127074210155506, guid: 08b43a65c346cf34c8c9aca5b521f5cc, type: 3}
+  akBullet: {fileID: 7427783137925891960, guid: faaee30ea5ca4bb42b3916fafbae2f01, type: 3}
+  pistolFireRate: 0.25
+  akFireRate: 0.08
+  pistolTopController: {fileID: 9100000, guid: 59cc2431129ad514d8bffb07eaabbaca, type: 2}
+  pistolDownController: {fileID: 9100000, guid: 6536fd1900be18e4a823530da7079da8, type: 2}
+  akTopOverride: {fileID: 22100000, guid: 5a2b6daeea72604499e58a3112c24aca, type: 2}
+  akDownOverride: {fileID: 22100000, guid: c21195908e7774d459d218a230c663cf, type: 2}
+  throwPointTop: {fileID: 9152638426366206353}
+  throwPointDown: {fileID: 2203110688961087061}
+  grenadePrefab: {fileID: 7282100510531306057, guid: 94cf968b7d5ea1444aa9aa33894e5c8e, type: 3}
+  throwForce: 12
+  aimSpeed: 90
 --- !u!1 &6521483316899685226
 GameObject:
   m_ObjectHideFlags: 0
@@ -698,7 +682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6273851716992108754}
   m_Layer: 0
-  m_Name: FirePointTOP
+  m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -713,7 +697,7 @@ Transform:
   m_GameObject: {fileID: 6521483316899685226}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.045, y: 0.325, z: 0}
+  m_LocalPosition: {x: 0.662, y: 0.045, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -744,7 +728,7 @@ Transform:
   m_GameObject: {fileID: 7574704431295521695}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.22186017, z: 0}
+  m_LocalPosition: {x: 0.41, y: 0.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -775,7 +759,7 @@ Transform:
   m_GameObject: {fileID: 7973707359282017353}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.5, y: -0.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
