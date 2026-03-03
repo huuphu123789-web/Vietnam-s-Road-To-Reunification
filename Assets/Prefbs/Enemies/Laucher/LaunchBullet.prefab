@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 8051387936699844413}
   - component: {fileID: 2527085607305382483}
   - component: {fileID: -93147756066183654}
+  - component: {fileID: 4796213413642863288}
   m_Layer: 0
   m_Name: LaunchBullet
-  m_TagString: Untagged
+  m_TagString: EnemyBullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -180,3 +181,16 @@ CapsuleCollider2D:
   m_Offset: {x: -0.040334105, y: 0}
   m_Size: {x: 0.1560123, y: 1.1111112}
   m_Direction: 0
+--- !u!114 &4796213413642863288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4762490179295577292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d8fe383cf2e646299b1fc0b28705a44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LauncherBullet
+  exploPre: {fileID: 7479239744415881959, guid: 7475a46229ce942b3a2e13f0f73b45e6, type: 3}

@@ -128,7 +128,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 45804541}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 74492766}
   - component: {fileID: 74492768}
   - component: {fileID: 74492767}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 87586180}
   - component: {fileID: 87586179}
   - component: {fileID: 87586178}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Menu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -436,7 +436,7 @@ GameObject:
   - component: {fileID: 115569294}
   - component: {fileID: 115569296}
   - component: {fileID: 115569295}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -557,7 +557,7 @@ GameObject:
   - component: {fileID: 197343503}
   - component: {fileID: 197343505}
   - component: {fileID: 197343504}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: HPText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -767,8 +767,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 486319539}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.1483, y: 1.4073, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.1483, y: 1.4072999, z: 0}
   m_LocalScale: {x: 4.61, y: 1.5222654, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -785,7 +785,7 @@ GameObject:
   - component: {fileID: 489910124}
   - component: {fileID: 489910126}
   - component: {fileID: 489910125}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -982,7 +982,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -30.41375, y: -0.03046, z: -10}
+  m_LocalPosition: {x: -45, y: -0.03046, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1047,7 +1047,7 @@ GameObject:
   - component: {fileID: 603390873}
   - component: {fileID: 603390875}
   - component: {fileID: 603390874}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1206,7 +1206,7 @@ GameObject:
   - component: {fileID: 658614778}
   - component: {fileID: 658614780}
   - component: {fileID: 658614779}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: MenuPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1283,7 +1283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 676325873}
   - component: {fileID: 676325874}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1374,7 +1374,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 837699555}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1412,7 +1412,7 @@ GameObject:
   - component: {fileID: 851643955}
   - component: {fileID: 851643957}
   - component: {fileID: 851643956}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: GrenadeUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1486,7 +1486,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 859312826}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1523,7 +1523,7 @@ GameObject:
   m_Component:
   - component: {fileID: 859821219}
   - component: {fileID: 859821220}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: BarMask
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1647,7 +1647,7 @@ GameObject:
   - component: {fileID: 918849712}
   - component: {fileID: 918849714}
   - component: {fileID: 918849713}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Ammo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1721,7 +1721,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 963409731}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: VolumeBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1760,7 +1760,7 @@ GameObject:
   - component: {fileID: 1164517624}
   - component: {fileID: 1164517623}
   - component: {fileID: 1164517622}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: SettingBut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1893,8 +1893,7 @@ GameObject:
   - component: {fileID: 1330996847}
   - component: {fileID: 1330996846}
   - component: {fileID: 1330996850}
-  - component: {fileID: 1330996851}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2010,19 +2009,6 @@ MonoBehaviour:
   maxHealth: 100
   ammoCount: 10
   grenadeCountUI: 10
---- !u!114 &1330996851
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1330996845}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 17825cde2b4b6499e9d82cfc777b098e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::VolumeScript
-  volumeSlider: {fileID: 1966937396}
 --- !u!1 &1382814307
 GameObject:
   m_ObjectHideFlags: 0
@@ -2034,7 +2020,7 @@ GameObject:
   - component: {fileID: 1382814308}
   - component: {fileID: 1382814310}
   - component: {fileID: 1382814309}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: GrenadeText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2171,7 +2157,7 @@ GameObject:
   - component: {fileID: 1422709515}
   - component: {fileID: 1422709517}
   - component: {fileID: 1422709516}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: AmmoText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2308,7 +2294,7 @@ GameObject:
   - component: {fileID: 1450853619}
   - component: {fileID: 1450853621}
   - component: {fileID: 1450853620}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2384,7 +2370,7 @@ GameObject:
   - component: {fileID: 1477497096}
   - component: {fileID: 1477497095}
   - component: {fileID: 1477497094}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: BackToGame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2515,7 +2501,7 @@ GameObject:
   - component: {fileID: 1510343090}
   - component: {fileID: 1510343092}
   - component: {fileID: 1510343091}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: VolumeText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2889,7 +2875,7 @@ Transform:
   m_GameObject: {fileID: 1769414508}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -30.41375, y: -0.03046, z: -10}
+  m_LocalPosition: {x: -45, y: -0.03046, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2976,7 +2962,7 @@ GameObject:
   - component: {fileID: 1809674815}
   - component: {fileID: 1809674817}
   - component: {fileID: 1809674816}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: BackGround
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3053,7 +3039,7 @@ GameObject:
   - component: {fileID: 1822780971}
   - component: {fileID: 1822780973}
   - component: {fileID: 1822780972}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: SceneConTroller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3163,7 +3149,7 @@ GameObject:
   - component: {fileID: 1826397849}
   - component: {fileID: 1826397851}
   - component: {fileID: 1826397850}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: SettingPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3240,7 +3226,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1838354641}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3278,7 +3264,7 @@ GameObject:
   - component: {fileID: 1846825271}
   - component: {fileID: 1846825273}
   - component: {fileID: 1846825272}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3352,7 +3338,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1966937395}
   - component: {fileID: 1966937396}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: VolumeSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3443,7 +3429,7 @@ GameObject:
   - component: {fileID: 2004851959}
   - component: {fileID: 2004851961}
   - component: {fileID: 2004851960}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: SettingText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3673,7 +3659,7 @@ GameObject:
   - component: {fileID: 2038883724}
   - component: {fileID: 2038883726}
   - component: {fileID: 2038883725}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: ValueText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3811,7 +3797,7 @@ GameObject:
   - component: {fileID: 2086496381}
   - component: {fileID: 2086496380}
   - component: {fileID: 2086496379}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: MainMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3948,7 +3934,7 @@ GameObject:
   - component: {fileID: 2127548957}
   - component: {fileID: 2127548956}
   - component: {fileID: 2127548955}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: BackButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4077,6 +4063,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1330996849}
     m_Modifications:
+    - target: {fileID: 29227383824340195, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615432455783138822, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2852747025784840751, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4636881836740789199, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -4213,9 +4211,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5004631908513488903, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5848955576472089221, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
       propertyPath: m_Name
       value: GameOverPanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 5848955576472089221, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5848955576472089221, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
       propertyPath: m_IsActive
@@ -4224,6 +4230,10 @@ PrefabInstance:
     - target: {fileID: 8203973523659779012, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
       propertyPath: m_RaycastTarget
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9022946368086276183, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4253,8 +4263,16 @@ PrefabInstance:
       value: Victory Panel
       objectReference: {fileID: 0}
     - target: {fileID: 2608627499276679363, guid: 93330d46a283c4ab7a212a3e67ed3fb4, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2608627499276679363, guid: 93330d46a283c4ab7a212a3e67ed3fb4, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257739540712728647, guid: 93330d46a283c4ab7a212a3e67ed3fb4, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5516398130262607012, guid: 93330d46a283c4ab7a212a3e67ed3fb4, type: 3}
       propertyPath: m_Pivot.x
@@ -4357,6 +4375,10 @@ PrefabInstance:
     - target: {fileID: 4516244795900457212, guid: 8784c3f67d4974c92a287d5d586187db, type: 3}
       propertyPath: m_Name
       value: Map
+      objectReference: {fileID: 0}
+    - target: {fileID: 4516244795900457212, guid: 8784c3f67d4974c92a287d5d586187db, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6300831660464063282, guid: 8784c3f67d4974c92a287d5d586187db, type: 3}
       propertyPath: m_LocalScale.x

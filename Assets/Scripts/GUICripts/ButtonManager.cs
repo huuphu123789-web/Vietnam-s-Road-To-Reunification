@@ -28,7 +28,7 @@ public class ButtonManager : MonoBehaviour
     public void PauseGame()
     {
         menuPanel.SetActive(true);
-        PlayController.instance.isShooting = false;
+        PlayerController.instance.isTopAttacking = false;
         Time.timeScale = 0;
     }
 

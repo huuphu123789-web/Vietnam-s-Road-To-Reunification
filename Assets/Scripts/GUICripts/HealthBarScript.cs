@@ -12,11 +12,11 @@ public class HealthBarScript : MonoBehaviour
     [SerializeField] int grenadeCountUI ;
     void Start()
     {
-        if (PlayController.instance != null)
+        if (PlayerController.instance != null)
         {
-            PlayController.instance.playerHp = maxHealth;
-            PlayController.instance.ammo=ammoCount;
-            PlayController.instance.grenadeCount=grenadeCountUI;
+            PlayerController.instance.playerHp = maxHealth;
+            PlayerController.instance.ammo=ammoCount;
+            PlayerController.instance.grenadeCount=grenadeCountUI;
            
         }
         else
@@ -29,10 +29,10 @@ public class HealthBarScript : MonoBehaviour
     void Update()
     {
        
-            healthValueText.text = PlayController.instance.playerHp.ToString() + "/" + maxHealth.ToString();
-            ammoText.text = PlayController.instance.ammo.ToString() + "/" + ammoCount.ToString();
-            grenadeText.text = PlayController.instance.grenadeCount.ToString() + "/" + grenadeCountUI.ToString();
-            healthBar.value = PlayController.instance.playerHp;
+            healthValueText.text = PlayerController.instance.playerHp.ToString() + "/" + maxHealth.ToString();
+            ammoText.text = PlayerController.instance.ammo.ToString() + "/" + ammoCount.ToString();
+            grenadeText.text = PlayerController.instance.grenadeCount.ToString() + "/" + grenadeCountUI.ToString();
+            healthBar.value = PlayerController.instance.playerHp;
             healthBar.maxValue = maxHealth;
         
     }

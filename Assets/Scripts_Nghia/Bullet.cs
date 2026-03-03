@@ -14,7 +14,6 @@ public class Bullet : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
-
     public void Init(Vector2 direction)
     {
         direction = direction.normalized;

@@ -500,7 +500,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 895747605
-  m_SortingLayer: 6
+  m_SortingLayer: 5
   m_SortingOrder: 6
   m_MaskInteraction: 0
   m_Sprite: {fileID: 5602337906906987636, guid: d07ec0ba424378a4988ad58568cd7e82, type: 3}
@@ -680,14 +680,33 @@ MonoBehaviour:
   rb: {fileID: 3553193145853670926}
   top: {fileID: 6266119850150232203}
   down: {fileID: 2073063247827047587}
-  playerCollider: {fileID: 4974120262814117341}
-  firePointTOP: {fileID: 6273851716992108754}
-  firePointDOWN: {fileID: 2583115839597927318}
+  topAnim: {fileID: 2495216890212137101}
+  downAnim: {fileID: 406026455185777139}
   knifeHitBoxTOP: {fileID: 3143929234893290097}
   knifeHitBoxDOWN: {fileID: 1616938107643906379}
-  throwPointTOP: {fileID: 9152638426366206353}
-  throwPointDOWN: {fileID: 2203110688961087061}
   fireRate: 0.12
+  bulletPrefab: {fileID: 2411127074210155506, guid: 08b43a65c346cf34c8c9aca5b521f5cc, type: 3}
+  firePoint: {fileID: 6273851716992108754}
+  standSideLocalPos: {x: 1, y: 0.3}
+  standUpLocalPos: {x: -0.25, y: 2}
+  crouchSideLocalPos: {x: 1.2, y: -0.3}
+  currentWeapon: 0
+  pistolBullet: {fileID: 2411127074210155506, guid: 08b43a65c346cf34c8c9aca5b521f5cc, type: 3}
+  akBullet: {fileID: 7427783137925891960, guid: faaee30ea5ca4bb42b3916fafbae2f01, type: 3}
+  pistolFireRate: 0.25
+  akFireRate: 0.08
+  pistolTopController: {fileID: 9100000, guid: 59cc2431129ad514d8bffb07eaabbaca, type: 2}
+  pistolDownController: {fileID: 9100000, guid: 6536fd1900be18e4a823530da7079da8, type: 2}
+  akTopOverride: {fileID: 22100000, guid: 5a2b6daeea72604499e58a3112c24aca, type: 2}
+  akDownOverride: {fileID: 22100000, guid: c21195908e7774d459d218a230c663cf, type: 2}
+  throwPointTop: {fileID: 9152638426366206353}
+  throwPointDown: {fileID: 2203110688961087061}
+  grenadePrefab: {fileID: 7282100510531306057, guid: 94cf968b7d5ea1444aa9aa33894e5c8e, type: 3}
+  throwForce: 8
+  aimSpeed: 90
+  playerHp: 100
+  ammo: 10
+  grenadeCount: 10
 --- !u!1 &6521483316899685226
 GameObject:
   m_ObjectHideFlags: 0

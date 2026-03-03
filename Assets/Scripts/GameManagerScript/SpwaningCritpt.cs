@@ -146,7 +146,7 @@ public void DestroyAllEnemyKnife()
     }
 public void CheckGameOver()
     {
-        if(PlayController.instance.playerHp<=0)
+        if(PlayerController.instance.playerHp<=0)
         {   
             gameOverPanel.SetActive(true);
             AudioManager.instance.StopPlaySceneClip();

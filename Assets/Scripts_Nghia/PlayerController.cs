@@ -65,7 +65,7 @@ public class PlayerController : MonoBehaviour
     bool isCrouch;
     bool isShootingHold;
     bool isDoingOnceAttack;
-    bool isTopAttacking;
+    public bool isTopAttacking;
     bool isCrouchMoving;
 
     float fireTimer;
@@ -74,9 +74,13 @@ public class PlayerController : MonoBehaviour
     float aimAngle = 0f;
     float aimTarget = 0f;
     public float aimSpeed = 90f;
-
+    public int playerHp= 100;
+    public static PlayerController instance;
+    public int ammo;
+    public int grenadeCount;
     void Awake()
     {
+        instance = this;
         topAnim = top.GetComponent<Animator>();
         downAnim = down.GetComponent<Animator>();
 

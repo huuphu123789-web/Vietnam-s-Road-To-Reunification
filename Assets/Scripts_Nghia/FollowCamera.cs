@@ -22,6 +22,7 @@ public class CameraFollow : MonoBehaviour
 
     void Start()
     {
+        target = GameObject.FindGameObjectWithTag("Player").transform;
         cam = Camera.main;
         camHeight = cam.orthographicSize;
         camWidth = camHeight * cam.aspect;
@@ -29,6 +30,7 @@ public class CameraFollow : MonoBehaviour
 
     void LateUpdate()
     {
+        target = GameObject.FindGameObjectWithTag("Player").transform;
         if (!target) return;
 
         Vector3 targetPos = target.position + offset;
