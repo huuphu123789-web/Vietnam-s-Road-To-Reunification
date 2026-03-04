@@ -2,6 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using Unity.Cinemachine;
+using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
@@ -82,6 +83,8 @@ public class PlayerController : MonoBehaviour
     public int ammo;
     public int grenadeCount = 10;
     public int maxGrenade = 10;
+
+    
     IEnumerator DisableShield()
     {
         yield return new WaitForSeconds(3);
@@ -106,8 +109,20 @@ public class PlayerController : MonoBehaviour
         grenadeCount = maxGrenade;
     }
 
+    public void Tele()
+    {
+        if(Input.GetKey(KeyCode.T))
+        {
+            moveSpeed=30;
+        }
+        else if(Input.GetKey(KeyCode.O)) 
+        {
+            moveSpeed=6;
+        }
+    }
     void Update()
     {
+        Tele();
         CheckGround();
         HandleInput();
 
@@ -404,7 +419,25 @@ void OnDisable()
 
 void OnSceneLoaded(Scene scene, LoadSceneMode mode)
 {
-    // Tìm Cinemachine trong scene mới
+    StartCoroutine(SetupCamera());
+    StartCoroutine(SetupAfterSceneLoad());
+}
+IEnumerator SetupAfterSceneLoad()
+{
+    yield return null; // chờ scene load xong
+
+    GameObject spawn = GameObject.FindWithTag("SpawnPoint");
+
+    if (spawn != null)
+    {
+        transform.position = spawn.transform.position;
+        GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+    }
+}
+IEnumerator SetupCamera()
+{
+    yield return null; 
+
     CinemachineCamera cam = FindFirstObjectByType<CinemachineCamera>();
 
     if (cam != null)
@@ -412,12 +445,9 @@ void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         cam.Follow = transform;
         cam.LookAt = transform;
     }
-
-    // Di chuyển player về SpawnPoint
-    GameObject spawn = GameObject.Find("SpawnPoint");
-    if (spawn != null)
+    else
     {
-        transform.position = spawn.transform.position;
+        Debug.LogWarning("Không tìm thấy CinemachineCamera!");
     }
 }
 }

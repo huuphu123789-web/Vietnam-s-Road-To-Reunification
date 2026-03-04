@@ -3006,6 +3006,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214971036}
   - component: {fileID: 214971035}
+  - component: {fileID: 214971037}
   m_Layer: 0
   m_Name: ButtonManager
   m_TagString: Untagged
@@ -3042,6 +3043,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &214971037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214971034}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ab06a3e4eb84dd781e6450b5b4c2ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DontDetroyUI
 --- !u!1 &261992753
 GameObject:
   m_ObjectHideFlags: 0
@@ -3072,11 +3085,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpwaningCritpt
   playerPrefab: {fileID: 6429276060743746909, guid: 278d3061d30c23e4d87a8d80befe0c60, type: 3}
-  enemyPrefab: {fileID: 1385930806406891941, guid: b00b31918889b4415bcbe47bf1906e79, type: 3}
-  enemyKnife: {fileID: 3543293869836365324, guid: 55739b76d47be41e3a19bb3a599c5aff, type: 3}
   gameOverPanel: {fileID: 5848955576472089221, guid: ccb1d0db5334445078ff053cc0c93d1f, type: 3}
   victoryPanel: {fileID: 688542345}
   spawnPoin: {x: 0, y: 0, z: 0}
+  enemies: []
   isSpawning: 0
 --- !u!4 &261992755
 Transform:
@@ -24059,6 +24071,7 @@ GameObject:
   - component: {fileID: 1257675095}
   - component: {fileID: 1257675094}
   - component: {fileID: 1257675093}
+  - component: {fileID: 1257675096}
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -24127,6 +24140,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1257675096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257675092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ab06a3e4eb84dd781e6450b5b4c2ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DontDetroyUI
 --- !u!1 &1258128946
 GameObject:
   m_ObjectHideFlags: 0

@@ -16,6 +16,8 @@ TagManager:
   - EnemyKnife
   - Cars
   - Obstacle
+  - Boom
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX

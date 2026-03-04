@@ -64,7 +64,7 @@ public class BossMovement : MonoBehaviour
 
     IEnumerator LoadMap2()
     {
-        AudioManager.instance.StopBackgroundMusic();
+        
         yield return new WaitForSeconds(timetoChangeMap);
         SceneManager.LoadScene("Map-2");
     }

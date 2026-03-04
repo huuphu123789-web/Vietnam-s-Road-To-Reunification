@@ -711,6 +711,7 @@ MonoBehaviour:
   ammo: 0
   grenadeCount: 10
   maxGrenade: 10
+  telePoint: {fileID: 5509753363110955490, guid: e151b17e85d694bd9aac3bbba17f27b0, type: 3}
 --- !u!1 &6521483316899685226
 GameObject:
   m_ObjectHideFlags: 0

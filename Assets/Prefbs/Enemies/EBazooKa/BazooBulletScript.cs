@@ -9,7 +9,7 @@ public class BazooBulletScript : MonoBehaviour
         if(other.CompareTag("Player"))
         {
             Instantiate(explodePre,transform.position,Quaternion.identity);
-            PlayController.instance.playerHp -=5;
+            PlayerController.instance.playerHp -=5;
             Destroy(gameObject);
         }
         else

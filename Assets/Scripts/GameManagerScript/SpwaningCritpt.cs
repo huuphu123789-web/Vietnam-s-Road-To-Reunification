@@ -171,7 +171,16 @@ public void CheckGameOver()
             AudioManager.instance.StopPlaySceneClip();
             AudioManager.instance.VictorySound();
             isSpawning=false;
+            StartCoroutine(turnOffvictoryPanel());
+
    }
+    IEnumerator turnOffvictoryPanel()
+    {
+        yield return new WaitForSeconds(2);
+        
+            victoryPanel.SetActive(false);
+        
+    }
 }
 
 
