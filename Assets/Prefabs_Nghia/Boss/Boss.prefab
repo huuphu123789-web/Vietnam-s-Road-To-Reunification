@@ -523,9 +523,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3cd2a3d8377b1a048a1ec04121ad1159, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BossMovement
-  pointA: {fileID: 0}
-  pointB: {fileID: 0}
+  pointA: {fileID: 7219997881352382545, guid: ab110f3867df54ac6a9b0d2218743fb5, type: 3}
+  pointB: {fileID: 7522495172332460552, guid: 2a59c55e842504119a79a3eff14fb3dc, type: 3}
   moveSpeed: 1
+  bossHp: 5
+  bossDeathPre: {fileID: 1217229756336091302, guid: 102cba6a66e3ee34d845c364780d1d48, type: 3}
+  offset: {x: 0, y: 2, z: 0}
+  timetoChangeMap: 2
 --- !u!50 &6422446649602979633
 Rigidbody2D:
   serializedVersion: 5

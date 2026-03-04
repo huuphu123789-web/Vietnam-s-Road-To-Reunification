@@ -35,9 +35,9 @@ public class ButtonManager : MonoBehaviour
     public void ContinousGame()
     {
         menuPanel.SetActive(false);
-        PlayController.instance.isShooting = false;
+        PlayerController.instance.isShootingHold = false;
         Time.timeScale = 1;
-        PlayController.instance.isShooting = true;
+        PlayerController.instance.isShootingHold = true;
 
     }
 
@@ -59,7 +59,7 @@ public class ButtonManager : MonoBehaviour
         settingPanel.SetActive(true);
         if (Time.timeScale == 0)
         {
-            PlayController.instance.isShooting = true;
+            PlayerController.instance.isShootingHold = true;
         }
     }
 }

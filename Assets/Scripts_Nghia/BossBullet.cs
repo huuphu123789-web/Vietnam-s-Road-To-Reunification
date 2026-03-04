@@ -27,6 +27,7 @@ public class BossBullet : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Destroy(gameObject);
+            PlayerController.instance.playerHp -=10;
         }
 
         if (other.CompareTag("Ground"))

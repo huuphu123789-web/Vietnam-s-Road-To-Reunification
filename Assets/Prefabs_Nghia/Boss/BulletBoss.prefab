@@ -132,7 +132,7 @@ MonoBehaviour:
   speed: 8
   direction: {x: -1, y: 0}
   lifeTime: 5
-  damage: 1
+  damage: 2
 --- !u!50 &2465321086517212166
 Rigidbody2D:
   serializedVersion: 5
