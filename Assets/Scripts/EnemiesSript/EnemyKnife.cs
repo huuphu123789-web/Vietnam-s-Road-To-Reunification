@@ -112,7 +112,7 @@ IEnumerator DoAttack()
         Collider2D[] playerss = Physics2D.OverlapCircleAll(attackPoint.transform.position, radius, players);
        foreach (Collider2D player in playerss) 
         { 
-            PlayController.instance.playerHp = PlayController.instance.playerHp - 2 ;
+            PlayerController.instance.playerHp = PlayerController.instance.playerHp - 2 ;
             AudioManager.instance.GettingHitByKnife();
         }
     }

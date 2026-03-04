@@ -1,4 +1,7 @@
+    using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Unity.Cinemachine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -58,14 +61,14 @@ public class PlayerController : MonoBehaviour
     public Transform throwPointTop;
     public Transform throwPointDown;
 
-    public GameObject grenadePrefab;
+    public GameObject grenadePrefab,shield;
     public float throwForce = 8f;
 
     bool isGrounded;
     bool isCrouch;
-    bool isShootingHold;
+    public bool isShootingHold;
     bool isDoingOnceAttack;
-    bool isTopAttacking;
+    public bool isTopAttacking;
     bool isCrouchMoving;
 
     float fireTimer;
@@ -74,14 +77,33 @@ public class PlayerController : MonoBehaviour
     float aimAngle = 0f;
     float aimTarget = 0f;
     public float aimSpeed = 90f;
-
+    public int playerHp= 100;
+    public static PlayerController instance;
+    public int ammo;
+    public int grenadeCount = 10;
+    public int maxGrenade = 10;
+    IEnumerator DisableShield()
+    {
+        yield return new WaitForSeconds(3);
+        shield.SetActive(false);
+    }
     void Awake()
     {
+        if (instance == null)
+    {
+        instance = this;
+        DontDestroyOnLoad(gameObject);
+    }
+    else
+    {
+        Destroy(gameObject);
+    }
         topAnim = top.GetComponent<Animator>();
         downAnim = down.GetComponent<Animator>();
-
+        StartCoroutine(DisableShield());
         knifeHitBoxTOP.enabled = false;
         knifeHitBoxDOWN.enabled = false;
+        grenadeCount = maxGrenade;
     }
 
     void Update()
@@ -342,7 +364,12 @@ public class PlayerController : MonoBehaviour
 
     void ThrowGrenade()
     {
-        Transform tp = GetThrowPoint();
+          if (grenadeCount <= 0)
+    {
+        Debug.Log("Hết lựu đạn!");
+        return;
+    }
+            Transform tp = GetThrowPoint();
         if (!tp) return;
 
         GameObject grenade = Instantiate(grenadePrefab, tp.position, Quaternion.identity);
@@ -350,6 +377,8 @@ public class PlayerController : MonoBehaviour
         if (!grb) return;
 
         grb.linearVelocity = GetThrowDir().normalized * throwForce;
+        grenadeCount --;
+
     }
 
     void CheckGround()
@@ -362,10 +391,33 @@ public class PlayerController : MonoBehaviour
         );
     }
 
-    void OnDrawGizmosSelected()
+
+void OnEnable()
+{
+    SceneManager.sceneLoaded += OnSceneLoaded;
+}
+
+void OnDisable()
+{
+    SceneManager.sceneLoaded -= OnSceneLoaded;
+}
+
+void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+{
+    // Tìm Cinemachine trong scene mới
+    CinemachineCamera cam = FindFirstObjectByType<CinemachineCamera>();
+
+    if (cam != null)
     {
-        if (!groundCheck) return;
-        Gizmos.color = Color.green;
-        Gizmos.DrawWireCube(groundCheck.position, groundCheckSize);
+        cam.Follow = transform;
+        cam.LookAt = transform;
     }
+
+    // Di chuyển player về SpawnPoint
+    GameObject spawn = GameObject.Find("SpawnPoint");
+    if (spawn != null)
+    {
+        transform.position = spawn.transform.position;
+    }
+}
 }

@@ -840,7 +840,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -861,10 +861,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -905,12 +905,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1322
-        width: 8
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1321
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -927,12 +927,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_1
       rect:
         serializedVersion: 2
-        x: 14
-        y: 1322
-        width: 5
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 13
+        y: 1321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -949,12 +949,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_2
       rect:
         serializedVersion: 2
-        x: 21
-        y: 1322
-        width: 40
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 20
+        y: 1321
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -971,12 +971,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_3
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1255
-        width: 12
-        height: 26
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1254
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -993,12 +993,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_4
       rect:
         serializedVersion: 2
-        x: 22
-        y: 1255
-        width: 8
-        height: 16
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 21
+        y: 1254
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1015,12 +1015,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_5
       rect:
         serializedVersion: 2
-        x: 35
-        y: 1255
-        width: 51
-        height: 62
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 34
+        y: 1254
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1037,12 +1037,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_6
       rect:
         serializedVersion: 2
-        x: 91
-        y: 1255
-        width: 13
-        height: 28
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 90
+        y: 1254
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1059,12 +1059,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_7
       rect:
         serializedVersion: 2
-        x: 109
-        y: 1255
-        width: 11
-        height: 14
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 108
+        y: 1254
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1081,12 +1081,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_8
       rect:
         serializedVersion: 2
-        x: 125
-        y: 1255
-        width: 51
-        height: 60
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 124
+        y: 1254
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1103,12 +1103,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_9
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1188
-        width: 51
-        height: 62
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1187
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1125,12 +1125,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_10
       rect:
         serializedVersion: 2
-        x: 61
-        y: 1188
-        width: 51
-        height: 60
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 60
+        y: 1187
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1147,12 +1147,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_11
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1142
-        width: 19
-        height: 40
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1141
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1169,12 +1169,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_12
       rect:
         serializedVersion: 2
-        x: 29
-        y: 1119
-        width: 51
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 28
+        y: 1118
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1191,12 +1191,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_13
       rect:
         serializedVersion: 2
-        x: 85
-        y: 1143
-        width: 19
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 84
+        y: 1142
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1213,12 +1213,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_14
       rect:
         serializedVersion: 2
-        x: 109
-        y: 1119
-        width: 53
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 108
+        y: 1118
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1235,12 +1235,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_15
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1073
-        width: 19
-        height: 40
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1072
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1257,12 +1257,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_16
       rect:
         serializedVersion: 2
-        x: 29
-        y: 1050
-        width: 52
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 28
+        y: 1049
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1279,12 +1279,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_17
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1037
-        width: 48
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 1036
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1301,12 +1301,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_18
       rect:
         serializedVersion: 2
-        x: 5
-        y: 992
-        width: 19
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 991
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1323,12 +1323,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_19
       rect:
         serializedVersion: 2
-        x: 30
-        y: 968
-        width: 51
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 29
+        y: 967
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1345,12 +1345,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_20
       rect:
         serializedVersion: 2
-        x: 5
-        y: 902
-        width: 53
-        height: 62
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 901
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1367,12 +1367,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_21
       rect:
         serializedVersion: 2
-        x: 63
-        y: 902
-        width: 51
-        height: 60
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 62
+        y: 901
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1389,12 +1389,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_22
       rect:
         serializedVersion: 2
-        x: 5
-        y: 836
-        width: 16
-        height: 30
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 835
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1411,12 +1411,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_23
       rect:
         serializedVersion: 2
-        x: 26
-        y: 848
-        width: 6
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 25
+        y: 847
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1433,12 +1433,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_24
       rect:
         serializedVersion: 2
-        x: 37
-        y: 836
-        width: 53
-        height: 61
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 36
+        y: 835
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1455,12 +1455,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_25
       rect:
         serializedVersion: 2
-        x: 95
-        y: 836
-        width: 13
-        height: 28
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 94
+        y: 835
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1477,12 +1477,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_26
       rect:
         serializedVersion: 2
-        x: 113
-        y: 847
-        width: 7
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 112
+        y: 846
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1499,12 +1499,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_27
       rect:
         serializedVersion: 2
-        x: 125
-        y: 836
-        width: 51
-        height: 60
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 124
+        y: 835
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1521,12 +1521,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_28
       rect:
         serializedVersion: 2
-        x: 5
-        y: 790
-        width: 23
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 789
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1543,12 +1543,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_29
       rect:
         serializedVersion: 2
-        x: 33
-        y: 766
-        width: 57
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 32
+        y: 765
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1565,12 +1565,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_30
       rect:
         serializedVersion: 2
-        x: 95
-        y: 790
-        width: 19
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 94
+        y: 789
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1587,12 +1587,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_31
       rect:
         serializedVersion: 2
-        x: 119
-        y: 766
-        width: 53
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 118
+        y: 765
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1609,12 +1609,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_32
       rect:
         serializedVersion: 2
-        x: 5
-        y: 753
-        width: 16
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 752
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1631,12 +1631,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_33
       rect:
         serializedVersion: 2
-        x: 22
-        y: 753
-        width: 5
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 21
+        y: 752
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1653,12 +1653,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_34
       rect:
         serializedVersion: 2
-        x: 29
-        y: 753
-        width: 16
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 28
+        y: 752
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1675,12 +1675,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_35
       rect:
         serializedVersion: 2
-        x: 5
-        y: 723
-        width: 48
-        height: 25
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 722
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1697,12 +1697,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_36
       rect:
         serializedVersion: 2
-        x: 58
-        y: 724
-        width: 48
-        height: 23
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 57
+        y: 723
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1719,12 +1719,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_37
       rect:
         serializedVersion: 2
-        x: 5
-        y: 710
-        width: 48
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 709
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1741,12 +1741,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_38
       rect:
         serializedVersion: 2
-        x: 5
-        y: 697
-        width: 6
-        height: 7
-      alignment: 9
-      pivot: {x: 0.2, y: 0.5}
+        x: 4
+        y: 696
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1763,12 +1763,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_39
       rect:
         serializedVersion: 2
-        x: 16
-        y: 697
-        width: 8
-        height: 7
-      alignment: 9
-      pivot: {x: 0.4, y: 0.5}
+        x: 15
+        y: 696
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1785,12 +1785,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_40
       rect:
         serializedVersion: 2
-        x: 29
-        y: 697
-        width: 10
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 28
+        y: 696
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1807,12 +1807,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_41
       rect:
         serializedVersion: 2
-        x: 44
-        y: 696
-        width: 13
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 43
+        y: 695
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1829,12 +1829,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_42
       rect:
         serializedVersion: 2
-        x: 62
-        y: 696
-        width: 16
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 61
+        y: 695
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1851,12 +1851,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_43
       rect:
         serializedVersion: 2
-        x: 83
-        y: 696
-        width: 20
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 82
+        y: 695
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1873,12 +1873,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_44
       rect:
         serializedVersion: 2
-        x: 5
-        y: 682
-        width: 24
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 681
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1895,12 +1895,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_45
       rect:
         serializedVersion: 2
-        x: 34
-        y: 682
-        width: 16
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 33
+        y: 681
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1917,12 +1917,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_46
       rect:
         serializedVersion: 2
-        x: 55
-        y: 682
-        width: 20
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 54
+        y: 681
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1939,12 +1939,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_47
       rect:
         serializedVersion: 2
-        x: 80
-        y: 682
-        width: 24
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 79
+        y: 681
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1961,12 +1961,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_48
       rect:
         serializedVersion: 2
-        x: 5
-        y: 669
-        width: 5
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 668
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1983,12 +1983,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_49
       rect:
         serializedVersion: 2
-        x: 15
-        y: 669
-        width: 8
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 14
+        y: 668
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2005,12 +2005,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_50
       rect:
         serializedVersion: 2
-        x: 28
-        y: 669
-        width: 10
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 27
+        y: 668
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2027,12 +2027,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_51
       rect:
         serializedVersion: 2
-        x: 43
-        y: 669
-        width: 13
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 42
+        y: 668
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2049,12 +2049,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_52
       rect:
         serializedVersion: 2
-        x: 61
-        y: 668
-        width: 16
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 60
+        y: 667
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2071,12 +2071,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_53
       rect:
         serializedVersion: 2
-        x: 82
-        y: 668
-        width: 20
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 81
+        y: 667
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2093,12 +2093,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_54
       rect:
         serializedVersion: 2
-        x: 5
-        y: 654
-        width: 24
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 653
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2115,12 +2115,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_55
       rect:
         serializedVersion: 2
-        x: 34
-        y: 654
-        width: 16
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 33
+        y: 653
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2137,12 +2137,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_56
       rect:
         serializedVersion: 2
-        x: 55
-        y: 654
-        width: 20
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 54
+        y: 653
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2159,12 +2159,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_57
       rect:
         serializedVersion: 2
-        x: 80
-        y: 654
-        width: 24
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 79
+        y: 653
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2181,12 +2181,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_58
       rect:
         serializedVersion: 2
-        x: 5
-        y: 642
-        width: 39
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 641
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2203,12 +2203,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_59
       rect:
         serializedVersion: 2
-        x: 46
-        y: 642
-        width: 5
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 45
+        y: 641
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2225,12 +2225,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_60
       rect:
         serializedVersion: 2
-        x: 53
-        y: 642
-        width: 16
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 52
+        y: 641
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2247,12 +2247,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_61
       rect:
         serializedVersion: 2
-        x: 73
-        y: 642
-        width: 24
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 72
+        y: 641
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2269,12 +2269,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_62
       rect:
         serializedVersion: 2
-        x: 5
-        y: 599
-        width: 35
-        height: 34
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 598
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2291,12 +2291,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_63
       rect:
         serializedVersion: 2
-        x: 45
-        y: 602
-        width: 38
-        height: 28
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 44
+        y: 601
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2313,12 +2313,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_64
       rect:
         serializedVersion: 2
-        x: 88
-        y: 608
-        width: 48
-        height: 16
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 87
+        y: 607
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2335,12 +2335,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_65
       rect:
         serializedVersion: 2
-        x: 141
-        y: 600
-        width: 47
-        height: 27
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 140
+        y: 599
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2357,12 +2357,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_66
       rect:
         serializedVersion: 2
-        x: 193
-        y: 598
-        width: 49
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 192
+        y: 597
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2379,12 +2379,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_67
       rect:
         serializedVersion: 2
-        x: 252
-        y: 598
-        width: 50
-        height: 36
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 251
+        y: 597
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2401,12 +2401,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_68
       rect:
         serializedVersion: 2
-        x: 312
-        y: 597
-        width: 52
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 311
+        y: 596
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2423,12 +2423,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_69
       rect:
         serializedVersion: 2
-        x: 374
-        y: 596
-        width: 51
-        height: 41
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 373
+        y: 595
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2445,12 +2445,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_70
       rect:
         serializedVersion: 2
-        x: 435
-        y: 596
-        width: 48
-        height: 41
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 434
+        y: 595
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2467,12 +2467,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_71
       rect:
         serializedVersion: 2
-        x: 493
-        y: 598
-        width: 47
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 492
+        y: 597
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2489,12 +2489,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_72
       rect:
         serializedVersion: 2
-        x: 550
-        y: 598
-        width: 47
-        height: 39
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 549
+        y: 597
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2511,12 +2511,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_73
       rect:
         serializedVersion: 2
-        x: 607
-        y: 600
-        width: 42
-        height: 37
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 606
+        y: 599
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2533,12 +2533,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_74
       rect:
         serializedVersion: 2
-        x: 659
-        y: 601
-        width: 38
-        height: 36
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 658
+        y: 600
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2555,12 +2555,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_75
       rect:
         serializedVersion: 2
-        x: 707
-        y: 603
-        width: 38
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 706
+        y: 602
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2577,12 +2577,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_76
       rect:
         serializedVersion: 2
-        x: 755
-        y: 604
-        width: 32
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 754
+        y: 603
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2599,12 +2599,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_77
       rect:
         serializedVersion: 2
-        x: 797
-        y: 605
-        width: 28
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 796
+        y: 604
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2621,12 +2621,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_78
       rect:
         serializedVersion: 2
-        x: 805
-        y: 610
-        width: 4
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 804
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2643,12 +2643,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_79
       rect:
         serializedVersion: 2
-        x: 810
-        y: 618
-        width: 8
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 809
+        y: 617
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2665,12 +2665,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_80
       rect:
         serializedVersion: 2
-        x: 5
-        y: 583
-        width: 48
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 582
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2687,12 +2687,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_81
       rect:
         serializedVersion: 2
-        x: 5
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2709,12 +2709,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_82
       rect:
         serializedVersion: 2
-        x: 47
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 46
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2731,12 +2731,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_83
       rect:
         serializedVersion: 2
-        x: 89
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 88
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2753,12 +2753,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_84
       rect:
         serializedVersion: 2
-        x: 131
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 130
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2775,12 +2775,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_85
       rect:
         serializedVersion: 2
-        x: 173
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 172
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2797,12 +2797,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_86
       rect:
         serializedVersion: 2
-        x: 215
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 214
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2819,12 +2819,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_87
       rect:
         serializedVersion: 2
-        x: 257
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 256
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2841,12 +2841,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_88
       rect:
         serializedVersion: 2
-        x: 299
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 298
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2863,12 +2863,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_89
       rect:
         serializedVersion: 2
-        x: 341
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 340
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2885,12 +2885,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_90
       rect:
         serializedVersion: 2
-        x: 383
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 382
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2907,12 +2907,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_91
       rect:
         serializedVersion: 2
-        x: 425
-        y: 545
-        width: 40
-        height: 33
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 424
+        y: 544
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2929,12 +2929,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_92
       rect:
         serializedVersion: 2
-        x: 5
-        y: 532
-        width: 55
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 531
+        width: 57
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2951,12 +2951,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_93
       rect:
         serializedVersion: 2
-        x: 62
-        y: 532
-        width: 5
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 61
+        y: 531
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2973,12 +2973,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_94
       rect:
         serializedVersion: 2
-        x: 69
-        y: 532
-        width: 16
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 68
+        y: 531
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2995,12 +2995,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_95
       rect:
         serializedVersion: 2
-        x: 5
-        y: 505
-        width: 46
-        height: 22
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 504
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3017,12 +3017,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_96
       rect:
         serializedVersion: 2
-        x: 56
-        y: 505
-        width: 46
-        height: 22
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 55
+        y: 504
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3039,12 +3039,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_97
       rect:
         serializedVersion: 2
-        x: 107
-        y: 505
-        width: 46
-        height: 21
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 106
+        y: 504
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3061,12 +3061,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_98
       rect:
         serializedVersion: 2
-        x: 158
-        y: 505
-        width: 46
-        height: 21
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 157
+        y: 504
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3083,12 +3083,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_99
       rect:
         serializedVersion: 2
-        x: 5
-        y: 492
-        width: 72
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 491
+        width: 74
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3105,12 +3105,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_100
       rect:
         serializedVersion: 2
-        x: 5
-        y: 405
-        width: 60
-        height: 78
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 404
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3127,12 +3127,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_101
       rect:
         serializedVersion: 2
-        x: 70
-        y: 405
-        width: 60
-        height: 78
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 69
+        y: 404
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3149,12 +3149,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_102
       rect:
         serializedVersion: 2
-        x: 135
-        y: 405
-        width: 60
-        height: 82
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 134
+        y: 404
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3171,12 +3171,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_103
       rect:
         serializedVersion: 2
-        x: 200
-        y: 405
-        width: 52
-        height: 82
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 199
+        y: 404
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3193,12 +3193,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_104
       rect:
         serializedVersion: 2
-        x: 5
-        y: 319
-        width: 60
-        height: 77
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 318
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3215,12 +3215,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_105
       rect:
         serializedVersion: 2
-        x: 70
-        y: 319
-        width: 60
-        height: 77
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 69
+        y: 318
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3237,12 +3237,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_106
       rect:
         serializedVersion: 2
-        x: 135
-        y: 319
-        width: 60
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 134
+        y: 318
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3259,12 +3259,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_107
       rect:
         serializedVersion: 2
-        x: 200
-        y: 319
-        width: 60
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 199
+        y: 318
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3281,12 +3281,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_108
       rect:
         serializedVersion: 2
-        x: 5
-        y: 306
-        width: 31
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 305
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3303,12 +3303,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_109
       rect:
         serializedVersion: 2
-        x: 37
-        y: 306
-        width: 40
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 36
+        y: 305
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3325,12 +3325,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_110
       rect:
         serializedVersion: 2
-        x: 781
+        x: 676
         y: 207
-        width: 99
-        height: 92
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3347,12 +3347,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_111
       rect:
         serializedVersion: 2
-        x: 885
+        x: 780
         y: 206
-        width: 98
-        height: 95
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3369,12 +3369,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_112
       rect:
         serializedVersion: 2
-        x: 988
-        y: 204
-        width: 96
+        x: 884
+        y: 205
+        width: 100
         height: 97
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3391,12 +3391,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_113
       rect:
         serializedVersion: 2
-        x: 1092
-        y: 221
-        width: 96
-        height: 80
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 987
+        y: 203
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3413,12 +3413,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_114
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 231
-        width: 86
-        height: 70
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1091
+        y: 220
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3435,12 +3435,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_115
       rect:
         serializedVersion: 2
-        x: 1294
-        y: 245
-        width: 84
-        height: 57
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1199
+        y: 230
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3457,12 +3457,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_116
       rect:
         serializedVersion: 2
-        x: 1386
-        y: 245
-        width: 84
-        height: 57
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1293
+        y: 244
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3479,12 +3479,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_117
       rect:
         serializedVersion: 2
-        x: 1484
-        y: 208
-        width: 68
-        height: 94
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1385
+        y: 244
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3501,12 +3501,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_118
       rect:
         serializedVersion: 2
-        x: 1584
-        y: 282
-        width: 15
-        height: 15
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1483
+        y: 207
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3523,12 +3523,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_119
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 293
-        width: 8
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1583
+        y: 281
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3545,12 +3545,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_120
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 282
-        width: 17
-        height: 17
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1588
+        y: 292
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3567,12 +3567,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_121
       rect:
         serializedVersion: 2
-        x: 161
-        y: 209
-        width: 98
-        height: 79
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1599
+        y: 281
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3589,12 +3589,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_122
       rect:
         serializedVersion: 2
-        x: 264
-        y: 208
-        width: 97
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 73
+        y: 211
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3611,12 +3611,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_123
       rect:
         serializedVersion: 2
-        x: 366
+        x: 160
         y: 208
-        width: 98
-        height: 82
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3633,12 +3633,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_124
       rect:
         serializedVersion: 2
-        x: 469
-        y: 208
+        x: 263
+        y: 207
         width: 99
-        height: 82
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3655,12 +3655,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_125
       rect:
         serializedVersion: 2
-        x: 573
-        y: 208
-        width: 99
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 365
+        y: 207
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3677,12 +3677,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_126
       rect:
         serializedVersion: 2
-        x: 677
-        y: 208
-        width: 99
+        x: 468
+        y: 207
+        width: 101
         height: 84
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3699,12 +3699,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_127
       rect:
         serializedVersion: 2
-        x: 1564
-        y: 264
-        width: 24
-        height: 21
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 572
+        y: 207
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3721,12 +3721,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_128
       rect:
         serializedVersion: 2
-        x: 1593
-        y: 282
-        width: 9
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1489
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3743,12 +3743,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_129
       rect:
         serializedVersion: 2
-        x: 1618
-        y: 276
-        width: 9
-        height: 13
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1563
+        y: 263
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3765,12 +3765,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_130
       rect:
         serializedVersion: 2
-        x: 1668
-        y: 261
-        width: 15
-        height: 21
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1588
+        y: 250
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3787,12 +3787,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_131
       rect:
         serializedVersion: 2
-        x: 74
-        y: 212
-        width: 79
-        height: 69
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1592
+        y: 281
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3809,12 +3809,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_132
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 266
-        width: 10
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1617
+        y: 275
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3831,12 +3831,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_133
       rect:
         serializedVersion: 2
-        x: 1490
-        y: 259
-        width: 22
-        height: 22
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1667
+        y: 260
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3853,12 +3853,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_134
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 251
-        width: 36
-        height: 30
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 211
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3875,12 +3875,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_135
       rect:
         serializedVersion: 2
-        x: 1613
-        y: 274
-        width: 7
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1477
+        y: 265
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3897,12 +3897,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_136
       rect:
         serializedVersion: 2
-        x: 1648
-        y: 265
-        width: 13
-        height: 14
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1612
+        y: 273
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3919,12 +3919,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_137
       rect:
         serializedVersion: 2
-        x: 5
-        y: 212
-        width: 64
-        height: 60
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1647
+        y: 264
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3941,12 +3941,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_138
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 261
-        width: 8
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1195
+        y: 260
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3963,12 +3963,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_139
       rect:
         serializedVersion: 2
-        x: 1202
-        y: 223
-        width: 43
-        height: 24
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1201
+        y: 222
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3985,12 +3985,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_140
       rect:
         serializedVersion: 2
-        x: 1305
-        y: 229
-        width: 18
-        height: 16
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1304
+        y: 228
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4007,12 +4007,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_141
       rect:
         serializedVersion: 2
-        x: 1321
-        y: 238
-        width: 9
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1320
+        y: 237
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4029,12 +4029,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_142
       rect:
         serializedVersion: 2
-        x: 1339
-        y: 209
-        width: 37
-        height: 43
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1325
+        y: 223
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4051,12 +4051,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_143
       rect:
         serializedVersion: 2
-        x: 1343
-        y: 245
-        width: 10
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1338
+        y: 208
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4073,12 +4073,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_144
       rect:
         serializedVersion: 2
-        x: 1397
-        y: 225
-        width: 18
-        height: 20
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1342
+        y: 244
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4095,12 +4095,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_145
       rect:
         serializedVersion: 2
-        x: 1413
-        y: 238
-        width: 9
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1396
+        y: 224
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4117,12 +4117,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_146
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 209
-        width: 37
-        height: 43
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1412
+        y: 237
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4139,12 +4139,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_147
       rect:
         serializedVersion: 2
-        x: 1435
-        y: 245
-        width: 10
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1417
+        y: 223
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4161,12 +4161,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_148
       rect:
         serializedVersion: 2
-        x: 1140
-        y: 209
-        width: 43
-        height: 22
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1430
+        y: 208
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4183,12 +4183,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_149
       rect:
         serializedVersion: 2
-        x: 1249
-        y: 218
-        width: 26
-        height: 12
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1434
+        y: 244
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4205,12 +4205,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_150
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 232
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1139
+        y: 208
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4227,12 +4227,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_151
       rect:
         serializedVersion: 2
-        x: 1275
+        x: 1248
         y: 217
-        width: 10
-        height: 13
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4249,12 +4249,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_152
       rect:
         serializedVersion: 2
-        x: 1326
-        y: 224
-        width: 12
-        height: 20
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1258
+        y: 231
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4271,12 +4271,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_153
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 220
-        width: 8
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1274
+        y: 216
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4293,12 +4293,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_154
       rect:
         serializedVersion: 2
-        x: 1418
-        y: 224
-        width: 12
-        height: 20
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1361
+        y: 219
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4315,12 +4315,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_155
       rect:
         serializedVersion: 2
-        x: 1454
-        y: 220
-        width: 8
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1453
+        y: 219
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4337,12 +4337,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_156
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 209
-        width: 19
-        height: 14
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1247
+        y: 208
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4359,12 +4359,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_157
       rect:
         serializedVersion: 2
-        x: 1356
-        y: 210
-        width: 5
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1355
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4381,12 +4381,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_158
       rect:
         serializedVersion: 2
-        x: 1448
-        y: 210
-        width: 5
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1447
+        y: 209
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4403,12 +4403,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_159
       rect:
         serializedVersion: 2
-        x: 5
-        y: 125
-        width: 64
-        height: 64
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 124
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4425,12 +4425,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_160
       rect:
         serializedVersion: 2
-        x: 74
-        y: 125
-        width: 83
-        height: 69
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 73
+        y: 124
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4447,12 +4447,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_161
       rect:
         serializedVersion: 2
-        x: 162
-        y: 122
-        width: 89
-        height: 79
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 161
+        y: 121
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4469,12 +4469,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_162
       rect:
         serializedVersion: 2
-        x: 256
-        y: 121
-        width: 94
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 255
+        y: 120
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4491,12 +4491,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_163
       rect:
         serializedVersion: 2
-        x: 355
-        y: 121
-        width: 98
-        height: 82
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 354
+        y: 120
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4513,12 +4513,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_164
       rect:
         serializedVersion: 2
-        x: 458
-        y: 121
-        width: 99
-        height: 82
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 457
+        y: 120
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4535,12 +4535,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_165
       rect:
         serializedVersion: 2
-        x: 562
-        y: 121
-        width: 99
-        height: 81
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 561
+        y: 120
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4557,12 +4557,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_166
       rect:
         serializedVersion: 2
-        x: 5
-        y: 93
-        width: 61
-        height: 23
-      alignment: 9
-      pivot: {x: 0.5, y: 1.5}
+        x: 4
+        y: 92
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4579,12 +4579,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_167
       rect:
         serializedVersion: 2
-        x: 1607
-        y: 10
-        width: 76
-        height: 89
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 1606
+        y: 9
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4601,12 +4601,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_168
       rect:
         serializedVersion: 2
-        x: 5
-        y: 80
-        width: 15
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 79
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4623,12 +4623,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_169
       rect:
         serializedVersion: 2
-        x: 21
-        y: 80
-        width: 24
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 20
+        y: 79
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4645,12 +4645,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_170
       rect:
         serializedVersion: 2
-        x: 49
-        y: 80
-        width: 24
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 48
+        y: 79
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4667,12 +4667,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_171
       rect:
         serializedVersion: 2
-        x: 5
-        y: 19
-        width: 34
-        height: 56
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 4
+        y: 18
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4689,12 +4689,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_172
       rect:
         serializedVersion: 2
-        x: 31
-        y: 21
-        width: 48
-        height: 54
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 30
+        y: 20
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4711,12 +4711,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_173
       rect:
         serializedVersion: 2
-        x: 73
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 72
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4733,12 +4733,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_174
       rect:
         serializedVersion: 2
-        x: 107
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 106
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4755,12 +4755,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_175
       rect:
         serializedVersion: 2
-        x: 141
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 140
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4777,12 +4777,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_176
       rect:
         serializedVersion: 2
-        x: 175
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 174
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4799,12 +4799,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_177
       rect:
         serializedVersion: 2
-        x: 209
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 208
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4821,12 +4821,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_178
       rect:
         serializedVersion: 2
-        x: 243
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 242
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4843,12 +4843,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_179
       rect:
         serializedVersion: 2
-        x: 277
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 276
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4865,12 +4865,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_180
       rect:
         serializedVersion: 2
-        x: 311
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 310
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4887,12 +4887,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_181
       rect:
         serializedVersion: 2
-        x: 345
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 344
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4909,12 +4909,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_182
       rect:
         serializedVersion: 2
-        x: 379
-        y: 43
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 378
+        y: 42
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4931,12 +4931,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_183
       rect:
         serializedVersion: 2
-        x: 41
-        y: 31
-        width: 4
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 40
+        y: 30
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4953,12 +4953,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_184
       rect:
         serializedVersion: 2
-        x: 88
-        y: 26
-        width: 9
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 87
+        y: 25
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4975,12 +4975,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_185
       rect:
         serializedVersion: 2
-        x: 108
-        y: 26
-        width: 6
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 107
+        y: 25
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4997,12 +4997,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_186
       rect:
         serializedVersion: 2
-        x: 127
-        y: 17
-        width: 7
-        height: 19
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 126
+        y: 16
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5019,12 +5019,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_187
       rect:
         serializedVersion: 2
-        x: 140
-        y: 19
-        width: 15
-        height: 16
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 139
+        y: 18
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5041,12 +5041,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_188
       rect:
         serializedVersion: 2
-        x: 163
-        y: 27
-        width: 5
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 162
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5063,12 +5063,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_189
       rect:
         serializedVersion: 2
-        x: 242
-        y: 29
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 172
+        y: 22
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5085,12 +5085,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_190
       rect:
         serializedVersion: 2
-        x: 266
-        y: 25
-        width: 14
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 208
+        y: 27
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5107,12 +5107,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_191
       rect:
         serializedVersion: 2
-        x: 304
-        y: 27
-        width: 9
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 241
+        y: 28
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5129,12 +5129,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_192
       rect:
         serializedVersion: 2
-        x: 340
-        y: 27
-        width: 9
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 265
+        y: 24
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5151,12 +5151,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_193
       rect:
         serializedVersion: 2
-        x: 375
-        y: 27
-        width: 9
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 303
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5173,12 +5173,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_194
       rect:
         serializedVersion: 2
-        x: 397
-        y: 15
-        width: 19
-        height: 18
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 339
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5195,12 +5195,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_195
       rect:
         serializedVersion: 2
-        x: 409
-        y: 23
-        width: 15
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 345
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5217,12 +5217,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_196
       rect:
         serializedVersion: 2
-        x: 440
-        y: 27
-        width: 16
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 363
+        y: 14
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5239,12 +5239,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_197
       rect:
         serializedVersion: 2
-        x: 472
-        y: 20
-        width: 22
-        height: 17
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 374
+        y: 26
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5261,12 +5261,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_198
       rect:
         serializedVersion: 2
-        x: 516
-        y: 33
-        width: 5
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 396
+        y: 14
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5283,12 +5283,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_199
       rect:
         serializedVersion: 2
-        x: 520
-        y: 29
-        width: 8
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 408
+        y: 22
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5305,12 +5305,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_200
       rect:
         serializedVersion: 2
-        x: 536
-        y: 23
-        width: 7
-        height: 12
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 431
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5327,12 +5327,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_201
       rect:
         serializedVersion: 2
-        x: 547
-        y: 30
-        width: 16
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 439
+        y: 26
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5349,12 +5349,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_202
       rect:
         serializedVersion: 2
-        x: 571
-        y: 30
-        width: 5
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 471
+        y: 19
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5371,12 +5371,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_203
       rect:
         serializedVersion: 2
-        x: 580
-        y: 31
-        width: 5
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 503
+        y: 26
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5393,12 +5393,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_204
       rect:
         serializedVersion: 2
-        x: 587
-        y: 24
-        width: 9
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 515
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5415,12 +5415,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_205
       rect:
         serializedVersion: 2
-        x: 607
-        y: 32
-        width: 7
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 519
+        y: 28
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5437,12 +5437,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_206
       rect:
         serializedVersion: 2
-        x: 616
-        y: 30
-        width: 4
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 535
+        y: 22
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5459,12 +5459,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_207
       rect:
         serializedVersion: 2
-        x: 643
-        y: 31
-        width: 5
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 546
+        y: 29
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5481,12 +5481,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_208
       rect:
         serializedVersion: 2
-        x: 645
-        y: 12
-        width: 15
-        height: 22
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 570
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5503,12 +5503,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_209
       rect:
         serializedVersion: 2
-        x: 674
-        y: 27
-        width: 15
+        x: 579
+        y: 30
+        width: 7
         height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5525,12 +5525,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_210
       rect:
         serializedVersion: 2
-        x: 706
-        y: 10
-        width: 51
-        height: 27
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 586
+        y: 23
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5547,12 +5547,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_211
       rect:
         serializedVersion: 2
-        x: 41
-        y: 26
-        width: 5
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 606
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5569,12 +5569,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_212
       rect:
         serializedVersion: 2
-        x: 92
-        y: 24
-        width: 7
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 615
+        y: 29
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5591,12 +5591,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_213
       rect:
         serializedVersion: 2
-        x: 101
-        y: 18
-        width: 12
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 621
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5613,12 +5613,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_214
       rect:
         serializedVersion: 2
-        x: 173
-        y: 23
-        width: 16
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 642
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5635,12 +5635,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_215
       rect:
         serializedVersion: 2
-        x: 197
-        y: 21
-        width: 14
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 644
+        y: 11
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5657,12 +5657,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_216
       rect:
         serializedVersion: 2
-        x: 209
-        y: 28
-        width: 8
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 673
+        y: 26
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5679,12 +5679,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_217
       rect:
         serializedVersion: 2
-        x: 234
-        y: 20
-        width: 20
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 705
+        y: 9
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5701,12 +5701,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_218
       rect:
         serializedVersion: 2
-        x: 276
-        y: 20
-        width: 10
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 40
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5723,12 +5723,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_219
       rect:
         serializedVersion: 2
-        x: 298
-        y: 17
-        width: 12
-        height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 55
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5745,12 +5745,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_220
       rect:
         serializedVersion: 2
-        x: 311
-        y: 20
+        x: 87
+        y: 16
         width: 10
         height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5767,12 +5767,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_221
       rect:
         serializedVersion: 2
-        x: 331
-        y: 17
-        width: 14
-        height: 13
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 91
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5789,12 +5789,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_222
       rect:
         serializedVersion: 2
-        x: 346
-        y: 26
-        width: 4
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 100
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5811,12 +5811,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_223
       rect:
         serializedVersion: 2
-        x: 349
-        y: 24
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 131
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5833,12 +5833,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_224
       rect:
         serializedVersion: 2
-        x: 364
-        y: 15
-        width: 19
-        height: 16
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 161
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5855,12 +5855,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_225
       rect:
         serializedVersion: 2
-        x: 383
+        x: 196
         y: 20
-        width: 9
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5877,12 +5877,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_226
       rect:
         serializedVersion: 2
-        x: 432
-        y: 27
-        width: 4
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 196
+        y: 12
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5899,12 +5899,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_227
       rect:
         serializedVersion: 2
-        x: 453
-        y: 22
-        width: 5
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 211
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5921,12 +5921,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_228
       rect:
         serializedVersion: 2
-        x: 467
-        y: 26
-        width: 4
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 231
+        y: 13
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5943,12 +5943,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_229
       rect:
         serializedVersion: 2
-        x: 502
-        y: 22
-        width: 5
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 233
+        y: 19
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5965,12 +5965,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_230
       rect:
         serializedVersion: 2
-        x: 504
-        y: 27
-        width: 7
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 266
+        y: 17
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5987,12 +5987,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_231
       rect:
         serializedVersion: 2
-        x: 550
-        y: 17
-        width: 9
+        x: 275
+        y: 19
+        width: 12
         height: 11
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6009,12 +6009,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_232
       rect:
         serializedVersion: 2
-        x: 622
-        y: 25
-        width: 8
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 297
+        y: 16
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6031,12 +6031,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_233
       rect:
         serializedVersion: 2
-        x: 56
-        y: 17
-        width: 7
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 310
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6053,12 +6053,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_234
       rect:
         serializedVersion: 2
-        x: 88
-        y: 17
-        width: 8
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 330
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6075,12 +6075,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_235
       rect:
         serializedVersion: 2
-        x: 132
-        y: 14
-        width: 5
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 348
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6097,12 +6097,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_236
       rect:
         serializedVersion: 2
-        x: 142
-        y: 17
-        width: 5
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 382
+        y: 19
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6119,12 +6119,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_237
       rect:
         serializedVersion: 2
-        x: 162
-        y: 21
-        width: 6
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 420
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6141,12 +6141,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_238
       rect:
         serializedVersion: 2
-        x: 162
-        y: 17
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 434
+        y: 19
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6163,12 +6163,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_239
       rect:
         serializedVersion: 2
-        x: 167
-        y: 13
+        x: 452
+        y: 21
         width: 7
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6185,12 +6185,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_240
       rect:
         serializedVersion: 2
-        x: 169
-        y: 17
-        width: 16
+        x: 455
+        y: 19
+        width: 7
         height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6207,12 +6207,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_241
       rect:
         serializedVersion: 2
-        x: 197
-        y: 13
-        width: 14
-        height: 12
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 466
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6229,12 +6229,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_242
       rect:
         serializedVersion: 2
-        x: 207
-        y: 17
-        width: 5
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 467
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6251,12 +6251,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_243
       rect:
         serializedVersion: 2
-        x: 212
-        y: 19
-        width: 9
-        height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 501
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6273,12 +6273,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_244
       rect:
         serializedVersion: 2
-        x: 232
-        y: 14
-        width: 14
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 514
+        y: 20
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6295,12 +6295,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_245
       rect:
         serializedVersion: 2
-        x: 267
-        y: 18
-        width: 10
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 549
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6317,12 +6317,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_246
       rect:
         serializedVersion: 2
-        x: 275
-        y: 14
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 570
+        y: 16
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6339,12 +6339,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_247
       rect:
         serializedVersion: 2
-        x: 310
-        y: 15
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 609
+        y: 11
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6361,12 +6361,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_248
       rect:
         serializedVersion: 2
-        x: 344
-        y: 16
-        width: 12
-        height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 675
+        y: 11
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6383,12 +6383,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_249
       rect:
         serializedVersion: 2
-        x: 421
-        y: 20
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 141
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6405,12 +6405,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_250
       rect:
         serializedVersion: 2
-        x: 433
-        y: 15
-        width: 15
+        x: 161
+        y: 16
+        width: 8
         height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6427,12 +6427,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_251
       rect:
         serializedVersion: 2
-        x: 435
-        y: 20
-        width: 15
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 166
+        y: 12
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6449,12 +6449,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_252
       rect:
         serializedVersion: 2
-        x: 456
-        y: 20
-        width: 5
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 168
+        y: 16
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6471,12 +6471,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_253
       rect:
         serializedVersion: 2
-        x: 468
-        y: 21
-        width: 6
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 206
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6493,12 +6493,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_254
       rect:
         serializedVersion: 2
-        x: 468
-        y: 15
-        width: 11
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 274
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6515,12 +6515,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_255
       rect:
         serializedVersion: 2
-        x: 504
-        y: 15
+        x: 309
+        y: 14
         width: 8
         height: 6
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6537,12 +6537,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_256
       rect:
         serializedVersion: 2
-        x: 515
-        y: 21
-        width: 8
-        height: 5
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 343
+        y: 15
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6559,12 +6559,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_257
       rect:
         serializedVersion: 2
-        x: 520
-        y: 18
-        width: 7
-        height: 4
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 432
+        y: 14
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6581,12 +6581,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_258
       rect:
         serializedVersion: 2
-        x: 541
+        x: 467
         y: 14
-        width: 5
+        width: 13
         height: 7
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6603,12 +6603,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_259
       rect:
         serializedVersion: 2
-        x: 571
-        y: 17
-        width: 9
-        height: 9
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 503
+        y: 14
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6625,12 +6625,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_260
       rect:
         serializedVersion: 2
-        x: 577
-        y: 13
-        width: 15
-        height: 10
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 519
+        y: 17
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6647,12 +6647,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_261
       rect:
         serializedVersion: 2
-        x: 610
-        y: 12
-        width: 16
-        height: 12
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 540
+        y: 13
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6669,12 +6669,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_262
       rect:
         serializedVersion: 2
-        x: 676
+        x: 576
         y: 12
-        width: 13
-        height: 14
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6691,12 +6691,12 @@ TextureImporter:
       name: Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_263
       rect:
         serializedVersion: 2
-        x: 714
-        y: 10
-        width: 8
-        height: 8
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        x: 713
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6713,7 +6713,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 21cc094176978d042918ca994a43516c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -6721,11 +6721,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
       Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_0: -4051735546146623767
       Neo Geo _ NGCD - Metal Slug - Enemies & Bosses - Pillbox_1: -7292804877934859516

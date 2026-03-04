@@ -30,4 +30,18 @@ public class EnemyBullet : MonoBehaviour
              
         }
     }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.CompareTag("Player"))
+        {
+            AudioManager.instance.GettingHit();
+            PlayerController.instance.playerHp -=5;
+            Destroy(gameObject);
+        }
+
+        else
+        {
+            Destroy(gameObject,3);
+        }
+    }
 }

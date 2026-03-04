@@ -83,7 +83,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 6
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1844444742618011164, guid: a24c998675f424f4f966364f17a822f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -132,7 +132,7 @@ MonoBehaviour:
   speed: 8
   direction: {x: -1, y: 0}
   lifeTime: 5
-  damage: 1
+  damage: 2
 --- !u!50 &2465321086517212166
 Rigidbody2D:
   serializedVersion: 5

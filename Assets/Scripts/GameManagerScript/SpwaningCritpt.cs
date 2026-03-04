@@ -7,14 +7,14 @@ public class SpwaningCritpt : MonoBehaviour
 {
     [SerializeField] GameObject playerPrefab;
   
-    [SerializeField] GameObject enemyPrefab;
-    [SerializeField] GameObject enemyKnife;
+
    [SerializeField] private GameObject gameOverPanel;
 
    [SerializeField] public GameObject victoryPanel;
 
     public Vector3 spawnPoin;
     public static SpwaningCritpt instance;
+    public GameObject[] enemies;
     public bool isSpawning;
     // Vector3 bottomLeft  = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, Camera.main.nearClipPlane));
     // Vector3 bottomRight = Camera.main.ViewportToWorldPoint(new Vector3(1, 0, Camera.main.nearClipPlane));
@@ -24,7 +24,14 @@ public class SpwaningCritpt : MonoBehaviour
     private void Awake()
     {
         isSpawning=true;
-        instance=this;
+         if (instance == null)
+        {
+            instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
         spawnPoin= transform.position;
     }
     void Start()
@@ -38,40 +45,45 @@ public class SpwaningCritpt : MonoBehaviour
        CheckGameOver();
     }
     void SpawnEnemy()
-    {
-        if(isSpawning == true)
-        {
+{
+    if (!isSpawning) return;
 
-        // 5 điểm viewport
-        float halfHeight = Camera.main.orthographicSize;
-        float halfWidth = halfHeight * Camera.main.aspect;
-        
-          Vector3[] spawnPoints = new Vector3[2];
-        // spawnPoints[0] = new Vector3(Camera.main.transform.position.x - halfWidth + offset,
-        //                              Camera.main.transform.position.y - halfHeight + offset, 0); // trái dưới ngoài
-        // spawnPoints[1] = new Vector3(Camera.main.transform.position.x + halfWidth + offset,
-        //                              Camera.main.transform.position.y - halfHeight + offset, 0); // phải dưới ngoài
-        spawnPoints[0] = new Vector3(Camera.main.transform.position.x - halfWidth ,
-                                     Camera.main.transform.position.y  , 0); 
-                                     // trái trên ngoài
-        spawnPoints[1] = new Vector3(Camera.main.transform.position.x + halfWidth,
-                                     Camera.main.transform.position.y , 0);
-                                      // phải trên ngoài
-        
+    if (Camera.main == null) return;
+    if (enemies == null || enemies.Length == 0) return;
 
-        // Chọn ngẫu nhiên 1 điểm
-        int randomIndex = Random.Range(0, spawnPoints.Length);
-        Vector3 spawnPos = spawnPoints[randomIndex];
-        GameObject[] enemyies = { enemyPrefab, enemyKnife };
+    float halfHeight = Camera.main.orthographicSize;
+    float halfWidth = halfHeight * Camera.main.aspect;
 
-        int randomEnemy=Random.Range(0,enemyies.Length);
-        // Spawn enemy
-        Instantiate(enemyies[randomEnemy], spawnPos, Quaternion.identity);
-        }
-        
+    Vector3 camPos = Camera.main.transform.position;
 
-    }
-    
+    Vector3[] spawnPoints = new Vector3[3];
+
+    spawnPoints[0] = new Vector3(
+        Random.Range(camPos.x - halfWidth, camPos.x + halfWidth),
+        camPos.y + halfHeight + 1f,
+        0
+    );
+
+
+    spawnPoints[1] = new Vector3(
+    camPos.x - halfWidth - 1f,
+    camPos.y + halfHeight * 0.5f,   
+    0
+    );
+
+
+    spawnPoints[2] = new Vector3(
+    camPos.x + halfWidth + 1f,
+    camPos.y + halfHeight * 0.5f,
+    0
+    );
+
+    int randomIndex = Random.Range(0, spawnPoints.Length);
+    Vector3 spawnPos = spawnPoints[randomIndex];
+
+    int randomEnemy = Random.Range(0, enemies.Length);
+    Instantiate(enemies[randomEnemy], spawnPos, Quaternion.identity);
+}
     public void SpawningPlayer()
     {
         StartCoroutine(SpawnPlayer());
@@ -146,7 +158,7 @@ public void DestroyAllEnemyKnife()
     }
 public void CheckGameOver()
     {
-        if(PlayController.instance.playerHp<=0)
+        if(PlayerController.instance.playerHp<=0)
         {   
             gameOverPanel.SetActive(true);
             AudioManager.instance.StopPlaySceneClip();

@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: PLAY
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
-  m_sharedMaterial: {fileID: 52701020179426970, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -203,13 +203,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 4096
   m_textAlignment: 65535
@@ -608,8 +608,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'VietNam : Road to reunufication'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
-  m_sharedMaterial: {fileID: 52701020179426970, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -639,7 +639,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 16
+  m_fontStyle: 17
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -1330,8 +1330,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: HISTORY
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
-  m_sharedMaterial: {fileID: 52701020179426970, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1355,13 +1355,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 4096
   m_textAlignment: 65535
@@ -1649,8 +1649,8 @@ Transform:
   m_GameObject: {fileID: 1760174525}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.003, y: 0.0444, z: 0}
-  m_LocalScale: {x: 2.3922088, y: 2.4797745, z: 1}
+  m_LocalPosition: {x: 0.0635, y: -0.016, z: 0}
+  m_LocalScale: {x: 2.5534217, y: 2.5079067, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1714,8 +1714,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: SETTING
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
-  m_sharedMaterial: {fileID: 52701020179426970, guid: 12ddf30fddc454660a0b9ee1ae1002cf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1739,13 +1739,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
-  m_fontSizeBase: 100
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 4096
   m_textAlignment: 65535
@@ -2040,6 +2040,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3132600261215877348, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 3096236898982939273, guid: d54d5df2281c944ad87a412db62befa1, type: 2}
     - target: {fileID: 3450526392175730174, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 960
@@ -2080,11 +2084,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6189629236561347153, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 3096236898982939273, guid: d54d5df2281c944ad87a412db62befa1, type: 2}
+    - target: {fileID: 6943185217815872798, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 3096236898982939273, guid: d54d5df2281c944ad87a412db62befa1, type: 2}
+    - target: {fileID: 7388401800417164663, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 3543258726119693044, guid: d54d5df2281c944ad87a412db62befa1, type: 2}
     - target: {fileID: 8483080266270667325, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 8711661580401167887, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 3096236898982939273, guid: d54d5df2281c944ad87a412db62befa1, type: 2}
+    m_RemovedComponents:
+    - {fileID: 2281849242061964624, guid: fac7e33f74dba0b478b0df5cc94fd21f, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

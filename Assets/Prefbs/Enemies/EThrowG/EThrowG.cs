@@ -1,6 +1,5 @@
 using System.Collections;
 using NUnit.Framework;
-using Unity.Android.Gradle;
 
 using UnityEngine;
 

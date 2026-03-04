@@ -65,7 +65,7 @@ public class RocketAirStrike : MonoBehaviour
 
         anim.SetTrigger("Fall");
 
-        Invoke(nameof(StartFalling), 0.1f);
+        Invoke(nameof(StartFalling), 0.05f);
     }
 
     void StartFalling()
@@ -77,6 +77,7 @@ public class RocketAirStrike : MonoBehaviour
     {
         if ((hitLayer.value & (1 << other.gameObject.layer)) > 0)
         {
+            PlayerController.instance.playerHp-=5;
             Explode();
         }
     }
@@ -109,4 +110,6 @@ public class RocketAirStrike : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, explosionRadius);
     }
+
+    
 }

@@ -5,9 +5,9 @@ using UnityEngine;
 public class CameraController : MonoBehaviour
 {   
 public Transform player;
-public Vector3 offset;
+
  public float smoothSpeed = 0.125f;
-public Transform boss;
+
     void Awake()
     {  
         if (AudioManager.instance != null) 
@@ -22,7 +22,7 @@ public Transform boss;
     }
     void Update()
 {
-    PlayController found = GameObject.FindAnyObjectByType<PlayController>(); 
+    PlayerController found = GameObject.FindAnyObjectByType<PlayerController>(); 
     if (found != null) 
     {
         player = found.transform;
